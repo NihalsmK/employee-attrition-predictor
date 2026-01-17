@@ -1,0 +1,68 @@
+# Model Configuration for Employee Attrition Predictor
+
+# Data Processing Configuration
+data_processing:
+  required_columns:
+    - Age
+    - Department
+    - DistanceFromHome
+    - EducationField
+    - JobSatisfaction
+    - MonthlyIncome
+    - NumCompaniesWorked
+    - YearsAtCompany
+    - OverTime
+    - Attrition
+  
+  categorical_columns:
+    ordinal:
+      JobSatisfaction: ["Low", "Medium", "High"]
+    nominal:
+      - Department
+      - EducationField
+      - JobRole
+    binary:
+      - OverTime
+  
+  numerical_columns:
+    - Age
+    - DistanceFromHome
+    - MonthlyIncome
+    - NumCompaniesWorked
+    - YearsAtCompany
+
+# Model Training Configuration
+model_training:
+  test_size: 0.2
+  random_state: 42
+  cross_validation_folds: 5
+  
+  algorithms:
+    logistic_regression:
+      max_iter: 1000
+      random_state: 42
+    
+    random_forest:
+      n_estimators: 100
+      max_depth: 10
+      random_state: 42
+    
+    decision_tree:
+      max_depth: 8
+      random_state: 42
+
+# Business Rules Configuration
+business_rules:
+  risk_threshold: 0.7
+  replacement_cost_multiplier: 2.0  # 200% of annual salary
+  high_value_performance_threshold: 4.0  # Out of 5
+  
+# Report Configuration
+reporting:
+  top_drivers_count: 3
+  executive_report_template: "executive_summary_template.html"
+  
+# Testing Configuration
+testing:
+  property_test_iterations: 100
+  hypothesis_significance_level: 0.05
