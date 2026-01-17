@@ -57,7 +57,7 @@ employee-attrition-predictor/
 
 ### **1. Clone & Setup**
 ```bash
-git clone https://github.com/yourusername/employee-attrition-predictor.git
+git clone https://github.com/NihalsmK/employee-attrition-predictor.git
 cd employee-attrition-predictor
 pip install -r requirements_deploy.txt
 ```
@@ -170,4 +170,4 @@ Developed as a comprehensive HR analytics solution demonstrating:
 
 ---
 
-⭐ **Star this repository if you found it helpful!**
+⭐ **Star this repository if you found it helpful!**"# employee-attrition-predictor" 
