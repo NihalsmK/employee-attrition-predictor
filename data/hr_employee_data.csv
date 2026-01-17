@@ -1,0 +1,1471 @@
+EmployeeID,Age,Department,DistanceFromHome,EducationField,JobRole,JobSatisfaction,MonthlyIncome,NumCompaniesWorked,YearsAtCompany,OverTime,Attrition
+1,41,Sales,1,Life Sciences,Research Director,Medium,69751,2,8,No,No
+2,35,Marketing,9,Human Resources,Sales Representative,Low,16485,2,11,Yes,Yes
+3,43,Sales,7,Life Sciences,Research Scientist,Medium,21605,1,1,No,Yes
+4,52,Finance,13,Technical Degree,Manager,Low,69301,0,4,Yes,No
+5,34,Finance,9,Other,Human Resources,Low,48776,2,12,Yes,Yes
+6,34,Research & Development,7,Marketing,Manufacturing Director,Medium,129339,1,3,No,No
+7,52,Research & Development,11,Medical,Human Resources,Medium,37578,1,0,No,Yes
+8,44,Research & Development,1,Life Sciences,Research Scientist,Medium,84983,1,3,Yes,Yes
+9,32,Finance,9,Medical,Research Scientist,High,14346,3,2,No,No
+10,42,Sales,1,Human Resources,Human Resources,High,17912,6,4,No,No
+11,32,Sales,25,Marketing,Sales Representative,Medium,56826,2,2,No,No
+12,32,Research & Development,1,Marketing,Sales Representative,Medium,15211,0,0,No,No
+13,39,Marketing,5,Life Sciences,Sales Executive,Medium,32902,1,25,No,Yes
+14,18,Sales,11,Other,Manager,High,65095,2,3,No,No
+15,19,Finance,6,Marketing,Sales Representative,Low,46657,5,3,No,Yes
+16,31,Human Resources,1,Life Sciences,Manager,Low,36517,4,15,No,No
+17,26,Human Resources,8,Life Sciences,Manager,High,29011,1,0,No,No
+18,40,Human Resources,10,Medical,Research Scientist,Medium,40179,2,1,No,No
+19,27,Marketing,12,Marketing,Manager,Low,48466,4,8,Yes,Yes
+20,22,Research & Development,4,Life Sciences,Manufacturing Director,Medium,26096,3,1,Yes,No
+21,51,Finance,8,Medical,Human Resources,High,43733,2,8,Yes,No
+22,34,Marketing,5,Technical Degree,Sales Executive,High,62268,2,1,No,Yes
+23,37,Finance,11,Medical,Research Director,High,32492,2,0,No,No
+24,22,Finance,8,Medical,Healthcare Representative,Medium,37573,0,3,No,No
+25,31,Research & Development,7,Life Sciences,Sales Executive,Medium,46253,5,1,No,No
+26,38,Human Resources,2,Human Resources,Manufacturing Director,High,47842,3,7,No,No
+27,25,Research & Development,1,Human Resources,Sales Executive,High,56343,3,5,No,No
+28,40,Marketing,1,Other,Manager,Medium,21868,2,12,No,No
+29,30,Marketing,1,Human Resources,Research Scientist,High,27876,5,7,Yes,Yes
+30,34,Marketing,5,Medical,Healthcare Representative,Low,28397,2,0,Yes,No
+31,30,Research & Development,9,Other,Sales Representative,Medium,23110,2,8,No,No
+32,55,Finance,2,Life Sciences,Research Scientist,Medium,14776,2,5,No,No
+33,36,Finance,27,Marketing,Manager,Medium,7134,0,5,No,Yes
+34,26,Sales,1,Medical,Manager,High,66020,3,8,Yes,No
+35,45,Marketing,14,Medical,Healthcare Representative,Low,16698,4,4,Yes,No
+36,24,Finance,9,Other,Healthcare Representative,Medium,79479,1,3,No,Yes
+37,39,Sales,4,Life Sciences,Laboratory Technician,High,52559,4,5,No,No
+38,18,Finance,1,Technical Degree,Research Scientist,High,29648,3,1,No,No
+39,23,Marketing,9,Medical,Sales Representative,Low,49424,2,1,No,Yes
+40,38,Human Resources,4,Technical Degree,Sales Executive,Medium,44916,5,4,No,No
+41,44,Marketing,27,Technical Degree,Manager,Medium,20933,3,1,No,No
+42,38,Research & Development,7,Human Resources,Manager,Low,36044,2,0,No,No
+43,35,Finance,28,Life Sciences,Laboratory Technician,High,22249,4,0,No,No
+44,33,Finance,2,Technical Degree,Research Scientist,High,50365,2,4,No,No
+45,22,Research & Development,12,Life Sciences,Research Scientist,Low,25397,2,2,No,Yes
+46,29,Research & Development,9,Human Resources,Human Resources,Low,34602,3,6,No,Yes
+47,32,Human Resources,13,Life Sciences,Healthcare Representative,Low,33863,5,2,Yes,No
+48,47,Finance,2,Medical,Sales Representative,High,38591,2,3,No,No
+49,40,Finance,10,Technical Degree,Healthcare Representative,Low,83389,2,2,No,No
+50,19,Human Resources,6,Life Sciences,Sales Representative,Medium,32193,2,5,Yes,No
+51,40,Sales,13,Marketing,Manufacturing Director,Medium,66766,4,2,No,No
+52,33,Human Resources,3,Life Sciences,Research Director,Medium,46165,4,16,Yes,Yes
+53,30,Marketing,22,Technical Degree,Sales Representative,Low,73806,1,13,No,No
+54,43,Finance,1,Human Resources,Healthcare Representative,Medium,30662,1,9,No,No
+55,47,Research & Development,16,Human Resources,Manager,High,51434,1,12,Yes,Yes
+56,46,Marketing,19,Technical Degree,Healthcare Representative,High,35255,0,2,No,No
+57,28,Finance,16,Medical,Sales Representative,High,8146,5,3,No,No
+58,33,Human Resources,7,Medical,Research Scientist,Low,21058,0,6,No,No
+59,40,Marketing,5,Human Resources,Healthcare Representative,Medium,48590,3,5,No,No
+60,46,Finance,50,Human Resources,Laboratory Technician,Medium,47010,4,11,No,Yes
+61,32,Sales,2,Technical Degree,Human Resources,Medium,19006,3,6,No,Yes
+62,35,Sales,7,Medical,Manager,High,40545,1,30,No,No
+63,25,Research & Development,11,Human Resources,Laboratory Technician,Medium,46706,3,2,Yes,No
+64,25,Finance,12,Medical,Sales Representative,Low,35691,2,8,No,Yes
+65,45,Sales,2,Human Resources,Manufacturing Director,High,52282,2,5,Yes,No
+66,50,Human Resources,10,Life Sciences,Laboratory Technician,High,48838,1,5,No,No
+67,36,Finance,17,Marketing,Research Director,Low,35682,2,1,No,Yes
+68,47,Human Resources,1,Other,Manufacturing Director,Medium,28129,3,7,Yes,Yes
+69,40,Human Resources,24,Life Sciences,Sales Executive,Medium,61161,3,11,No,No
+70,30,Sales,1,Other,Manager,Medium,45779,3,1,Yes,No
+71,40,Finance,4,Human Resources,Sales Executive,Low,18201,1,4,No,No
+72,52,Marketing,1,Marketing,Healthcare Representative,Medium,40556,5,2,No,No
+73,36,Sales,1,Marketing,Sales Representative,High,20424,3,22,No,No
+74,52,Sales,24,Human Resources,Manager,Medium,22420,2,3,No,No
+75,18,Finance,4,Human Resources,Research Scientist,Low,26213,2,1,No,Yes
+76,45,Finance,5,Medical,Manufacturing Director,Medium,37139,5,2,No,No
+77,37,Human Resources,2,Human Resources,Research Scientist,Medium,43793,3,5,No,No
+78,34,Finance,9,Technical Degree,Sales Executive,High,29599,4,0,No,No
+79,37,Human Resources,9,Human Resources,Laboratory Technician,Medium,30254,3,4,No,No
+80,18,Sales,4,Technical Degree,Laboratory Technician,Low,28236,5,13,No,No
+81,34,Research & Development,4,Human Resources,Sales Representative,Low,61313,2,9,No,No
+82,40,Marketing,21,Medical,Sales Executive,High,8721,7,0,No,Yes
+83,51,Sales,4,Technical Degree,Human Resources,Medium,31121,4,25,No,No
+84,31,Finance,6,Life Sciences,Manager,High,78628,1,5,No,No
+85,28,Marketing,3,Technical Degree,Manufacturing Director,Medium,47033,1,0,Yes,No
+86,31,Research & Development,15,Medical,Laboratory Technician,Medium,68420,2,0,No,No
+87,46,Research & Development,5,Other,Laboratory Technician,Medium,13132,2,0,No,Yes
+88,40,Human Resources,7,Technical Degree,Research Scientist,High,19513,3,9,No,No
+89,31,Marketing,2,Human Resources,Research Scientist,High,46958,3,0,No,No
+90,42,Human Resources,43,Human Resources,Healthcare Representative,Medium,78851,2,1,No,No
+91,37,Sales,3,Other,Human Resources,Medium,20524,3,7,No,Yes
+92,46,Marketing,14,Medical,Research Scientist,Low,29915,3,4,No,No
+93,29,Sales,5,Marketing,Research Scientist,Medium,44388,2,7,No,No
+94,33,Human Resources,2,Human Resources,Manager,Medium,17566,4,6,Yes,No
+95,33,Marketing,16,Life Sciences,Research Scientist,High,47138,2,0,No,No
+96,22,Human Resources,4,Medical,Manufacturing Director,High,9529,6,11,No,Yes
+97,39,Marketing,20,Technical Degree,Manager,Medium,46449,8,1,No,No
+98,39,Human Resources,24,Technical Degree,Healthcare Representative,Medium,22080,2,4,Yes,No
+99,37,Research & Development,19,Life Sciences,Sales Executive,High,29033,5,5,Yes,No
+100,34,Human Resources,1,Human Resources,Manager,High,50309,2,0,Yes,No
+101,22,Research & Development,15,Medical,Sales Executive,Low,45416,5,18,Yes,Yes
+102,32,Human Resources,5,Life Sciences,Laboratory Technician,Medium,36170,3,3,No,No
+103,33,Marketing,20,Human Resources,Healthcare Representative,Medium,58954,2,0,No,No
+104,28,Marketing,10,Medical,Healthcare Representative,Medium,15520,3,13,No,No
+105,35,Marketing,17,Technical Degree,Manager,Low,40223,1,4,No,No
+106,41,Finance,6,Medical,Research Director,Low,24462,3,6,No,Yes
+107,55,Sales,7,Other,Healthcare Representative,Medium,57469,0,3,No,No
+108,38,Marketing,1,Marketing,Sales Executive,Medium,51201,1,9,No,No
+109,39,Research & Development,15,Medical,Healthcare Representative,Low,52139,2,0,No,Yes
+110,36,Marketing,5,Marketing,Laboratory Technician,Medium,82676,2,1,No,No
+111,18,Finance,6,Medical,Manufacturing Director,High,63778,0,3,No,No
+112,36,Research & Development,15,Marketing,Research Director,High,33566,0,0,Yes,Yes
+113,37,Finance,9,Other,Sales Representative,Medium,36292,3,6,No,Yes
+114,61,Research & Development,2,Technical Degree,Healthcare Representative,Medium,49043,3,2,No,No
+115,35,Human Resources,8,Human Resources,Research Scientist,High,38874,1,1,No,No
+116,40,Sales,5,Marketing,Manager,Medium,51667,3,0,No,No
+117,36,Sales,6,Other,Manager,Medium,11906,5,6,No,Yes
+118,25,Finance,1,Marketing,Manager,Medium,93004,4,8,Yes,No
+119,48,Sales,2,Technical Degree,Human Resources,Low,37440,0,2,No,No
+120,44,Finance,3,Marketing,Research Director,Medium,16135,1,4,Yes,Yes
+121,44,Finance,12,Other,Research Director,High,22996,3,1,No,Yes
+122,27,Finance,1,Other,Sales Executive,Medium,12523,3,4,No,No
+123,51,Sales,5,Life Sciences,Healthcare Representative,Medium,21054,2,0,Yes,No
+124,22,Finance,25,Technical Degree,Sales Representative,High,33822,7,3,No,No
+125,42,Sales,1,Life Sciences,Manager,Low,77447,1,5,Yes,Yes
+126,58,Finance,7,Technical Degree,Healthcare Representative,Medium,44593,4,12,Yes,No
+127,27,Marketing,15,Marketing,Research Director,Medium,40799,2,2,No,Yes
+128,31,Finance,28,Other,Laboratory Technician,Medium,20587,3,7,Yes,No
+129,37,Research & Development,13,Life Sciences,Manager,Low,24046,1,4,No,No
+130,31,Finance,12,Marketing,Healthcare Representative,Medium,24997,6,13,Yes,No
+131,21,Human Resources,17,Other,Research Director,Medium,25512,5,2,Yes,Yes
+132,37,Finance,5,Technical Degree,Manufacturing Director,Medium,30461,2,1,No,Yes
+133,26,Research & Development,16,Other,Research Director,Medium,31634,4,10,No,No
+134,41,Research & Development,1,Marketing,Research Scientist,Medium,30652,0,0,Yes,No
+135,27,Sales,25,Life Sciences,Human Resources,Low,25960,3,0,No,Yes
+136,52,Marketing,5,Life Sciences,Human Resources,Medium,38852,2,0,No,Yes
+137,29,Finance,8,Other,Manager,Low,31032,4,9,No,No
+138,33,Sales,2,Marketing,Manufacturing Director,High,16353,2,0,Yes,Yes
+139,45,Marketing,13,Medical,Manufacturing Director,Medium,36945,3,9,No,No
+140,24,Finance,1,Technical Degree,Manager,Medium,34256,6,3,No,Yes
+141,39,Human Resources,20,Technical Degree,Healthcare Representative,High,16484,2,0,Yes,No
+142,50,Finance,17,Marketing,Manager,Medium,27020,3,2,No,No
+143,20,Research & Development,2,Medical,Sales Representative,Medium,48949,2,1,No,No
+144,38,Research & Development,16,Life Sciences,Sales Representative,High,20573,5,4,No,Yes
+145,39,Human Resources,15,Human Resources,Human Resources,High,19514,3,5,No,No
+146,44,Sales,10,Human Resources,Research Director,Medium,30870,3,3,No,No
+147,24,Marketing,4,Marketing,Manager,Low,49586,4,0,No,No
+148,23,Finance,3,Medical,Manager,Medium,89784,3,5,No,Yes
+149,42,Research & Development,2,Medical,Healthcare Representative,High,50486,8,9,No,No
+150,39,Sales,3,Technical Degree,Sales Executive,Low,62468,4,6,No,Yes
+151,39,Human Resources,23,Life Sciences,Human Resources,Medium,43189,1,8,No,No
+152,40,Research & Development,1,Other,Human Resources,High,25782,3,1,No,No
+153,30,Human Resources,17,Medical,Human Resources,Low,50304,0,10,No,No
+154,39,Finance,4,Other,Research Director,High,34793,2,1,Yes,Yes
+155,39,Marketing,7,Human Resources,Laboratory Technician,Medium,43849,2,0,No,Yes
+156,29,Research & Development,15,Other,Sales Executive,Medium,22628,1,9,No,No
+157,55,Research & Development,21,Life Sciences,Research Director,Low,45854,3,14,No,No
+158,41,Finance,4,Life Sciences,Sales Representative,High,34191,3,5,No,No
+159,25,Sales,6,Other,Healthcare Representative,Medium,40767,3,1,No,Yes
+160,43,Marketing,5,Marketing,Sales Representative,Medium,34803,0,1,Yes,No
+161,27,Research & Development,1,Medical,Manufacturing Director,Medium,31615,3,3,No,No
+162,44,Marketing,3,Marketing,Human Resources,High,46274,5,11,Yes,No
+163,48,Research & Development,6,Other,Research Scientist,High,29642,2,0,No,No
+164,28,Marketing,5,Medical,Human Resources,Medium,16410,1,8,No,No
+165,46,Human Resources,12,Technical Degree,Human Resources,Medium,14228,2,1,Yes,Yes
+166,41,Research & Development,4,Marketing,Healthcare Representative,High,39823,3,8,No,No
+167,45,Marketing,6,Marketing,Sales Executive,Medium,29038,5,12,No,No
+168,55,Sales,5,Other,Sales Representative,Medium,15297,1,2,No,Yes
+169,34,Human Resources,13,Human Resources,Manufacturing Director,Low,38302,0,2,No,Yes
+170,29,Human Resources,19,Other,Human Resources,High,34650,2,8,Yes,No
+171,28,Sales,7,Marketing,Manager,Medium,28288,4,3,Yes,No
+172,28,Marketing,15,Medical,Laboratory Technician,Medium,41085,1,5,No,No
+173,36,Finance,3,Human Resources,Manager,Medium,70090,5,4,No,No
+174,40,Sales,7,Other,Manager,Low,69029,2,0,No,Yes
+175,39,Marketing,4,Other,Healthcare Representative,Medium,39022,1,9,Yes,Yes
+176,45,Sales,5,Marketing,Research Scientist,Low,34809,2,1,No,No
+177,37,Sales,13,Marketing,Research Scientist,Medium,39295,5,13,No,No
+178,51,Research & Development,21,Technical Degree,Sales Representative,Medium,42383,0,1,No,Yes
+179,34,Marketing,1,Other,Research Scientist,Medium,31756,4,6,Yes,Yes
+180,64,Finance,10,Marketing,Manager,High,39627,3,1,No,No
+181,43,Research & Development,8,Life Sciences,Healthcare Representative,High,16534,1,1,Yes,Yes
+182,28,Sales,1,Human Resources,Manufacturing Director,High,37823,2,1,Yes,No
+183,26,Sales,2,Life Sciences,Sales Representative,Low,46092,4,6,No,No
+184,41,Sales,3,Human Resources,Research Director,Low,28426,4,4,No,Yes
+185,34,Marketing,1,Other,Manufacturing Director,Medium,34622,1,10,No,No
+186,44,Marketing,2,Technical Degree,Sales Executive,High,20832,3,1,No,Yes
+187,41,Research & Development,3,Marketing,Sales Executive,High,19435,5,5,No,No
+188,36,Finance,4,Marketing,Sales Executive,High,40352,1,6,No,No
+189,28,Research & Development,13,Marketing,Sales Executive,Medium,25215,3,0,No,Yes
+190,21,Human Resources,8,Other,Healthcare Representative,Medium,14936,2,2,No,No
+191,32,Sales,42,Human Resources,Manufacturing Director,Medium,20829,2,3,Yes,Yes
+192,45,Sales,5,Marketing,Human Resources,Low,22399,1,2,Yes,Yes
+193,39,Sales,14,Life Sciences,Laboratory Technician,Low,53492,2,1,No,Yes
+194,24,Research & Development,20,Marketing,Sales Representative,High,39717,3,5,No,No
+195,38,Research & Development,11,Other,Research Director,Medium,23486,5,1,Yes,Yes
+196,40,Sales,5,Technical Degree,Manager,Medium,27068,5,6,No,No
+197,28,Research & Development,14,Life Sciences,Sales Executive,Low,69985,2,13,No,No
+198,38,Marketing,2,Marketing,Research Director,High,57991,3,4,No,No
+199,37,Marketing,3,Marketing,Laboratory Technician,Medium,20763,0,4,Yes,Yes
+200,25,Research & Development,7,Medical,Research Director,Medium,64975,4,0,No,No
+201,40,Sales,8,Human Resources,Manufacturing Director,High,34880,2,9,No,No
+202,42,Research & Development,1,Life Sciences,Research Director,Medium,54165,6,1,No,Yes
+203,47,Research & Development,29,Medical,Sales Executive,Medium,33468,2,4,Yes,Yes
+204,47,Research & Development,11,Technical Degree,Laboratory Technician,Low,65703,4,19,Yes,No
+205,23,Human Resources,6,Human Resources,Manager,Low,20336,4,4,No,No
+206,27,Marketing,27,Life Sciences,Human Resources,High,31961,2,6,No,Yes
+207,42,Finance,5,Marketing,Research Scientist,High,66717,4,2,No,No
+208,42,Finance,39,Life Sciences,Sales Executive,Medium,10978,1,0,No,No
+209,42,Human Resources,7,Marketing,Laboratory Technician,Medium,35488,1,7,No,No
+210,65,Research & Development,1,Human Resources,Manufacturing Director,Medium,29828,3,0,Yes,Yes
+211,42,Human Resources,14,Marketing,Healthcare Representative,Low,51140,4,6,No,Yes
+212,48,Human Resources,11,Technical Degree,Laboratory Technician,Medium,62004,2,0,Yes,Yes
+213,46,Sales,14,Other,Research Scientist,Medium,52320,2,9,No,No
+214,43,Marketing,30,Marketing,Research Scientist,Medium,40966,4,0,No,No
+215,33,Finance,14,Technical Degree,Sales Representative,High,37059,2,3,No,Yes
+216,44,Research & Development,9,Other,Human Resources,Medium,30596,1,4,Yes,No
+217,29,Finance,19,Human Resources,Research Scientist,Low,40335,3,3,Yes,Yes
+218,34,Finance,11,Human Resources,Sales Representative,Medium,75344,0,2,No,No
+219,32,Marketing,5,Life Sciences,Sales Representative,High,23974,1,3,No,No
+220,37,Finance,21,Technical Degree,Sales Representative,Medium,29701,3,1,No,No
+221,60,Finance,2,Technical Degree,Laboratory Technician,Low,34969,3,2,No,Yes
+222,18,Human Resources,12,Medical,Sales Representative,Medium,59902,2,2,No,No
+223,43,Marketing,21,Medical,Sales Executive,High,40605,0,4,No,No
+224,20,Sales,13,Other,Sales Executive,Medium,59381,4,1,Yes,No
+225,32,Research & Development,11,Other,Healthcare Representative,High,60904,1,22,No,No
+226,47,Finance,13,Medical,Research Scientist,High,48826,3,3,No,No
+227,37,Research & Development,6,Other,Human Resources,High,21332,1,1,No,No
+228,26,Sales,20,Marketing,Sales Representative,Medium,83328,3,3,No,No
+229,29,Research & Development,2,Medical,Manufacturing Director,Medium,73584,4,10,Yes,No
+230,43,Sales,1,Technical Degree,Manufacturing Director,Low,37487,2,0,Yes,Yes
+231,29,Human Resources,3,Marketing,Research Scientist,High,18198,2,5,Yes,Yes
+232,39,Finance,7,Other,Healthcare Representative,Medium,16643,0,3,No,No
+233,37,Sales,7,Human Resources,Manufacturing Director,Low,41239,3,0,No,No
+234,30,Research & Development,17,Life Sciences,Sales Executive,Medium,25568,2,8,No,No
+235,58,Finance,5,Medical,Research Director,Medium,15388,3,2,Yes,Yes
+236,43,Human Resources,6,Human Resources,Laboratory Technician,Medium,16486,2,1,Yes,No
+237,18,Finance,1,Other,Manager,Medium,28710,6,8,Yes,Yes
+238,38,Sales,5,Technical Degree,Manufacturing Director,Medium,40033,3,5,No,No
+239,30,Human Resources,10,Life Sciences,Human Resources,High,73339,1,11,Yes,Yes
+240,45,Research & Development,1,Human Resources,Sales Representative,Medium,46263,2,4,Yes,Yes
+241,29,Human Resources,3,Life Sciences,Human Resources,Medium,30010,3,6,No,No
+242,35,Human Resources,2,Medical,Laboratory Technician,Medium,43913,5,9,No,No
+243,42,Marketing,1,Other,Sales Executive,Medium,41994,4,0,No,No
+244,45,Human Resources,6,Technical Degree,Healthcare Representative,High,52563,1,7,Yes,Yes
+245,24,Human Resources,2,Other,Laboratory Technician,Medium,35597,0,4,No,Yes
+246,33,Finance,13,Life Sciences,Manager,Medium,60967,7,0,No,Yes
+247,32,Research & Development,18,Human Resources,Research Director,Low,54842,4,3,Yes,No
+248,30,Finance,7,Medical,Manufacturing Director,High,37848,1,0,Yes,Yes
+249,54,Finance,40,Medical,Healthcare Representative,Medium,34213,1,6,No,No
+250,41,Sales,5,Other,Healthcare Representative,High,57519,5,3,No,No
+251,24,Finance,7,Human Resources,Manufacturing Director,Low,25419,7,15,Yes,Yes
+252,46,Marketing,45,Human Resources,Manufacturing Director,Medium,17097,2,1,No,No
+253,58,Marketing,2,Life Sciences,Manufacturing Director,Medium,17049,4,4,No,No
+254,47,Sales,28,Other,Manufacturing Director,High,24387,2,1,Yes,Yes
+255,21,Research & Development,1,Other,Manufacturing Director,Medium,50504,1,4,No,No
+256,32,Research & Development,5,Marketing,Healthcare Representative,High,29395,5,6,No,No
+257,49,Finance,1,Other,Research Scientist,Medium,40225,6,6,No,No
+258,29,Finance,13,Medical,Research Scientist,Medium,28349,1,8,No,No
+259,41,Finance,9,Life Sciences,Human Resources,Low,28461,2,9,Yes,No
+260,44,Research & Development,12,Human Resources,Research Scientist,High,21747,0,0,Yes,No
+261,27,Human Resources,4,Other,Manager,Medium,34684,2,2,No,No
+262,36,Marketing,4,Life Sciences,Research Scientist,High,33270,4,5,No,No
+263,18,Human Resources,1,Other,Healthcare Representative,High,44637,2,3,No,Yes
+264,26,Human Resources,4,Human Resources,Manufacturing Director,High,41933,2,1,No,Yes
+265,34,Research & Development,26,Technical Degree,Sales Representative,Medium,32906,1,4,No,No
+266,24,Human Resources,4,Human Resources,Sales Representative,Medium,17102,3,2,No,Yes
+267,53,Sales,17,Human Resources,Manager,High,62024,2,2,No,No
+268,22,Finance,18,Human Resources,Healthcare Representative,Low,34803,2,8,No,No
+269,32,Sales,4,Other,Sales Executive,Medium,37790,1,2,No,No
+270,38,Marketing,9,Marketing,Laboratory Technician,Low,80841,4,0,Yes,Yes
+271,51,Finance,1,Human Resources,Human Resources,Medium,57188,4,0,No,No
+272,22,Human Resources,1,Medical,Sales Executive,Low,45398,3,9,No,Yes
+273,48,Marketing,1,Medical,Healthcare Representative,Low,36273,2,16,Yes,Yes
+274,37,Finance,8,Life Sciences,Research Scientist,Medium,36104,6,5,No,No
+275,27,Human Resources,5,Marketing,Manufacturing Director,Medium,40947,2,2,No,Yes
+276,41,Sales,7,Life Sciences,Sales Executive,Medium,44509,3,13,No,No
+277,38,Finance,7,Medical,Laboratory Technician,Low,85451,2,5,Yes,No
+278,30,Human Resources,4,Medical,Sales Representative,Medium,125070,5,9,No,No
+279,37,Sales,11,Technical Degree,Laboratory Technician,Low,41987,2,7,Yes,Yes
+280,33,Marketing,14,Human Resources,Manufacturing Director,Medium,12374,2,2,No,No
+281,38,Marketing,1,Medical,Research Scientist,Medium,22564,5,3,Yes,Yes
+282,43,Marketing,2,Other,Laboratory Technician,Medium,89836,2,1,No,No
+283,52,Marketing,12,Other,Human Resources,High,52017,2,1,No,No
+284,24,Research & Development,4,Life Sciences,Laboratory Technician,Medium,44937,6,7,No,No
+285,58,Finance,10,Life Sciences,Healthcare Representative,High,33409,0,11,No,No
+286,18,Finance,4,Human Resources,Research Scientist,Medium,20040,4,6,No,No
+287,35,Research & Development,4,Human Resources,Manufacturing Director,Medium,84027,0,3,Yes,Yes
+288,42,Human Resources,1,Technical Degree,Sales Representative,Medium,24062,3,0,Yes,Yes
+289,39,Human Resources,2,Marketing,Sales Representative,Low,52294,2,0,Yes,Yes
+290,30,Marketing,9,Life Sciences,Laboratory Technician,Medium,18951,3,2,Yes,Yes
+291,34,Sales,5,Human Resources,Healthcare Representative,Medium,32608,4,3,No,No
+292,32,Human Resources,14,Life Sciences,Sales Executive,Medium,59663,2,4,No,No
+293,31,Sales,19,Human Resources,Sales Executive,Low,32053,8,0,Yes,Yes
+294,45,Finance,7,Medical,Healthcare Representative,Low,30205,0,22,No,Yes
+295,40,Sales,14,Life Sciences,Human Resources,High,36509,6,2,No,No
+296,30,Finance,3,Medical,Sales Executive,Medium,18620,3,9,Yes,No
+297,45,Research & Development,5,Life Sciences,Sales Executive,Low,16948,1,3,No,No
+298,40,Research & Development,12,Marketing,Manufacturing Director,Medium,51902,1,0,No,Yes
+299,45,Marketing,4,Technical Degree,Manufacturing Director,Medium,29404,2,7,No,No
+300,43,Human Resources,8,Other,Research Scientist,High,51701,3,6,No,No
+301,28,Marketing,2,Other,Human Resources,Low,63518,5,3,No,Yes
+302,31,Finance,9,Other,Human Resources,Medium,66126,0,3,Yes,No
+303,44,Marketing,19,Medical,Research Scientist,High,16147,1,0,No,No
+304,43,Sales,20,Human Resources,Human Resources,Low,25618,2,5,No,Yes
+305,36,Finance,12,Other,Manager,Medium,47514,3,12,No,No
+306,38,Research & Development,13,Marketing,Research Director,High,47882,2,0,No,No
+307,49,Human Resources,8,Other,Manufacturing Director,Medium,111828,4,1,No,Yes
+308,31,Finance,8,Life Sciences,Research Scientist,Medium,23067,3,11,No,No
+309,42,Finance,1,Medical,Research Scientist,Low,65126,2,1,No,No
+310,34,Sales,5,Life Sciences,Human Resources,Low,43745,2,5,No,No
+311,34,Human Resources,5,Life Sciences,Sales Executive,Medium,15992,3,3,No,No
+312,47,Research & Development,31,Life Sciences,Sales Representative,High,27614,2,4,No,No
+313,45,Finance,5,Technical Degree,Laboratory Technician,Medium,41409,1,2,No,No
+314,45,Finance,7,Technical Degree,Laboratory Technician,High,15487,3,1,No,Yes
+315,50,Sales,7,Human Resources,Research Scientist,High,12875,7,0,No,Yes
+316,37,Marketing,10,Medical,Manager,Medium,15053,3,6,Yes,Yes
+317,43,Research & Development,13,Marketing,Research Scientist,Low,41339,2,6,Yes,No
+318,33,Human Resources,2,Marketing,Manufacturing Director,Medium,28500,5,5,No,No
+319,40,Finance,7,Marketing,Human Resources,High,26636,1,5,No,No
+320,35,Finance,17,Life Sciences,Human Resources,High,27097,1,1,Yes,No
+321,37,Research & Development,6,Technical Degree,Manager,Low,17817,1,0,No,No
+322,42,Marketing,3,Medical,Manufacturing Director,Medium,28905,4,8,No,No
+323,28,Finance,10,Life Sciences,Sales Representative,Medium,14614,2,3,Yes,No
+324,57,Research & Development,17,Technical Degree,Sales Executive,High,65763,3,1,Yes,No
+325,26,Sales,1,Technical Degree,Manufacturing Director,Low,84640,3,0,No,Yes
+326,24,Marketing,14,Other,Healthcare Representative,Medium,11349,2,0,Yes,Yes
+327,48,Human Resources,17,Other,Research Director,High,28722,0,2,No,No
+328,44,Finance,6,Medical,Research Scientist,Medium,29673,1,8,No,Yes
+329,43,Research & Development,40,Medical,Healthcare Representative,Medium,33281,2,12,No,Yes
+330,43,Sales,15,Medical,Manager,Low,59919,2,11,No,No
+331,36,Human Resources,14,Life Sciences,Healthcare Representative,Medium,28764,0,12,No,No
+332,28,Research & Development,13,Human Resources,Human Resources,Medium,34747,0,11,No,No
+333,37,Research & Development,1,Medical,Sales Executive,High,161059,3,3,No,No
+334,30,Human Resources,2,Other,Laboratory Technician,Medium,34349,1,1,No,No
+335,46,Sales,6,Human Resources,Research Scientist,Medium,87826,6,7,No,No
+336,35,Sales,3,Life Sciences,Laboratory Technician,Medium,46676,3,1,No,No
+337,28,Marketing,5,Human Resources,Human Resources,Low,27533,0,1,No,No
+338,33,Finance,21,Marketing,Human Resources,Medium,25327,3,1,No,No
+339,41,Human Resources,17,Human Resources,Research Scientist,High,36183,1,3,Yes,No
+340,31,Human Resources,9,Medical,Laboratory Technician,High,20676,3,1,Yes,No
+341,28,Human Resources,19,Life Sciences,Manufacturing Director,Medium,23577,2,0,No,Yes
+342,39,Sales,15,Medical,Human Resources,Medium,29391,2,3,No,No
+343,39,Finance,5,Other,Laboratory Technician,Low,42052,1,10,No,No
+344,31,Marketing,2,Marketing,Sales Representative,High,90490,5,4,No,No
+345,32,Research & Development,7,Other,Laboratory Technician,Low,28496,2,10,Yes,No
+346,39,Research & Development,13,Medical,Sales Representative,High,45741,0,1,No,Yes
+347,22,Human Resources,5,Medical,Sales Representative,Medium,16091,3,0,Yes,No
+348,22,Finance,10,Medical,Human Resources,High,61706,2,4,No,No
+349,29,Sales,1,Technical Degree,Research Scientist,High,15354,4,3,No,No
+350,34,Finance,13,Marketing,Manager,High,54132,2,5,No,No
+351,40,Finance,16,Medical,Human Resources,Medium,34875,4,7,No,No
+352,51,Sales,12,Medical,Research Scientist,Medium,34189,5,6,Yes,No
+353,45,Human Resources,34,Other,Research Scientist,Medium,31252,1,14,No,No
+354,35,Finance,17,Other,Healthcare Representative,High,18946,4,2,Yes,No
+355,36,Research & Development,23,Medical,Research Director,Low,19455,1,1,Yes,Yes
+356,26,Sales,27,Life Sciences,Human Resources,High,55174,3,4,Yes,Yes
+357,36,Marketing,16,Technical Degree,Research Scientist,High,36532,2,0,No,No
+358,34,Human Resources,11,Other,Healthcare Representative,Medium,31139,4,1,Yes,Yes
+359,40,Sales,1,Life Sciences,Sales Representative,High,45328,1,1,No,No
+360,28,Marketing,6,Technical Degree,Manager,Medium,38202,5,2,No,No
+361,42,Marketing,8,Medical,Manager,Medium,24429,3,0,No,No
+362,52,Finance,3,Marketing,Sales Representative,Medium,124305,1,0,Yes,Yes
+363,35,Finance,3,Human Resources,Laboratory Technician,Medium,52595,1,5,Yes,No
+364,41,Finance,32,Human Resources,Laboratory Technician,High,38697,3,4,No,No
+365,43,Sales,22,Medical,Human Resources,Medium,28090,4,6,No,No
+366,32,Sales,18,Other,Research Director,Medium,58476,2,5,Yes,No
+367,39,Human Resources,5,Life Sciences,Healthcare Representative,Medium,24494,1,0,No,Yes
+368,37,Finance,1,Marketing,Manager,High,23484,2,1,No,No
+369,37,Marketing,1,Technical Degree,Sales Executive,Low,84682,6,0,No,Yes
+370,29,Research & Development,3,Medical,Sales Executive,High,36876,3,9,No,Yes
+371,37,Human Resources,1,Marketing,Manufacturing Director,Medium,24793,4,6,No,No
+372,41,Sales,1,Marketing,Research Scientist,Medium,36418,0,1,No,Yes
+373,51,Human Resources,24,Other,Sales Representative,Medium,55553,3,2,No,Yes
+374,46,Human Resources,12,Technical Degree,Research Scientist,Medium,49544,2,16,No,Yes
+375,58,Human Resources,3,Marketing,Research Scientist,High,59108,4,4,No,No
+376,29,Human Resources,1,Other,Healthcare Representative,Medium,19442,0,8,No,No
+377,45,Research & Development,7,Life Sciences,Manufacturing Director,High,58371,3,1,No,No
+378,38,Finance,1,Other,Research Director,Low,33205,2,1,Yes,No
+379,58,Marketing,27,Life Sciences,Manufacturing Director,Medium,37969,1,7,Yes,No
+380,28,Human Resources,5,Life Sciences,Manager,High,66486,3,5,No,No
+381,28,Human Resources,5,Marketing,Healthcare Representative,High,51604,2,5,No,Yes
+382,31,Human Resources,4,Other,Research Scientist,Medium,43283,3,4,No,No
+383,18,Finance,1,Life Sciences,Research Director,Medium,13467,2,4,No,Yes
+384,31,Sales,10,Technical Degree,Research Scientist,Medium,35498,2,6,No,Yes
+385,29,Sales,13,Marketing,Human Resources,Medium,24530,4,1,Yes,Yes
+386,38,Research & Development,11,Other,Human Resources,High,51819,3,2,No,No
+387,40,Sales,1,Other,Laboratory Technician,High,59604,3,10,No,No
+388,55,Human Resources,8,Human Resources,Manufacturing Director,Medium,31225,6,1,No,Yes
+389,46,Human Resources,8,Other,Research Director,High,26016,2,3,No,No
+390,31,Human Resources,20,Marketing,Human Resources,Medium,79074,5,6,Yes,Yes
+391,28,Research & Development,4,Technical Degree,Laboratory Technician,Medium,26860,3,40,No,No
+392,41,Human Resources,4,Other,Healthcare Representative,Medium,19984,0,2,No,Yes
+393,23,Sales,9,Human Resources,Research Director,Medium,23948,1,2,Yes,No
+394,55,Finance,10,Marketing,Laboratory Technician,Medium,27515,2,9,No,No
+395,48,Finance,6,Life Sciences,Sales Representative,Medium,23607,4,8,No,No
+396,32,Marketing,5,Medical,Research Director,Medium,55419,2,6,No,No
+397,19,Sales,6,Medical,Laboratory Technician,Low,12100,6,3,No,Yes
+398,50,Human Resources,19,Life Sciences,Research Scientist,High,23358,3,1,No,Yes
+399,35,Finance,6,Other,Sales Representative,Medium,35463,4,4,No,No
+400,49,Sales,28,Medical,Human Resources,Low,40340,7,10,Yes,No
+401,21,Finance,7,Medical,Sales Executive,High,84619,3,10,No,No
+402,31,Human Resources,29,Life Sciences,Laboratory Technician,High,78638,3,0,Yes,No
+403,37,Finance,17,Other,Healthcare Representative,High,16311,1,2,No,No
+404,37,Marketing,4,Other,Laboratory Technician,Medium,13988,3,3,No,No
+405,32,Marketing,19,Life Sciences,Sales Executive,Low,36771,2,18,No,No
+406,43,Finance,1,Other,Sales Representative,Medium,25936,4,5,No,No
+407,26,Sales,25,Other,Sales Representative,Low,20009,4,2,Yes,Yes
+408,35,Sales,9,Marketing,Research Director,High,36609,1,0,No,No
+409,38,Sales,1,Marketing,Healthcare Representative,Low,40755,4,4,No,Yes
+410,42,Finance,10,Life Sciences,Healthcare Representative,Medium,23873,4,0,No,No
+411,44,Sales,36,Technical Degree,Healthcare Representative,Medium,26581,2,8,No,No
+412,25,Human Resources,1,Medical,Sales Executive,Medium,24809,5,6,No,No
+413,21,Marketing,8,Marketing,Healthcare Representative,High,29562,1,3,No,No
+414,49,Human Resources,13,Medical,Manager,Medium,47606,3,2,No,No
+415,40,Sales,16,Human Resources,Sales Executive,Low,21184,1,11,No,No
+416,29,Human Resources,5,Life Sciences,Sales Representative,Medium,26361,2,1,No,Yes
+417,52,Sales,2,Technical Degree,Sales Executive,Medium,29743,2,1,No,Yes
+418,38,Finance,1,Human Resources,Research Scientist,Low,36193,1,14,No,No
+419,48,Human Resources,8,Human Resources,Research Scientist,Medium,41688,0,8,Yes,Yes
+420,37,Finance,6,Other,Healthcare Representative,Medium,100823,1,8,Yes,No
+421,57,Finance,29,Human Resources,Sales Representative,High,48342,3,1,No,Yes
+422,54,Research & Development,1,Life Sciences,Sales Executive,High,48921,5,0,Yes,No
+423,34,Sales,11,Marketing,Sales Executive,High,31783,3,0,Yes,No
+424,46,Marketing,1,Life Sciences,Sales Executive,High,22249,4,1,No,No
+425,43,Sales,1,Marketing,Manager,Medium,27886,1,7,Yes,No
+426,50,Marketing,6,Human Resources,Research Scientist,Low,25459,1,1,No,No
+427,27,Sales,6,Human Resources,Sales Executive,Medium,44183,3,6,No,No
+428,43,Finance,11,Technical Degree,Manager,High,15904,5,1,No,Yes
+429,47,Human Resources,24,Marketing,Research Scientist,High,48838,6,2,Yes,No
+430,19,Human Resources,10,Human Resources,Manager,High,34247,3,20,No,No
+431,25,Research & Development,30,Other,Research Director,Low,52400,1,1,No,Yes
+432,18,Marketing,21,Medical,Research Scientist,High,25287,2,2,No,No
+433,34,Marketing,8,Technical Degree,Human Resources,Medium,23139,1,1,No,No
+434,44,Marketing,17,Life Sciences,Research Director,Low,29633,2,0,Yes,Yes
+435,52,Finance,10,Technical Degree,Sales Executive,Medium,29280,1,3,No,No
+436,37,Marketing,1,Medical,Sales Representative,Low,54348,3,2,Yes,No
+437,53,Human Resources,13,Marketing,Manager,Medium,54089,0,5,No,No
+438,23,Finance,1,Life Sciences,Manager,Medium,94137,3,8,No,No
+439,19,Sales,9,Life Sciences,Manager,Medium,28346,4,3,No,Yes
+440,36,Marketing,12,Marketing,Manager,Medium,6810,3,0,No,No
+441,40,Marketing,1,Technical Degree,Sales Representative,High,29592,1,4,No,No
+442,36,Sales,2,Human Resources,Laboratory Technician,Medium,40754,1,0,No,No
+443,18,Marketing,24,Technical Degree,Manager,Medium,51909,4,4,No,Yes
+444,36,Sales,9,Medical,Laboratory Technician,High,42268,2,5,No,No
+445,23,Finance,2,Other,Sales Representative,High,28335,2,1,No,No
+446,43,Human Resources,11,Human Resources,Sales Representative,Low,85569,1,8,No,No
+447,40,Sales,9,Technical Degree,Research Director,Medium,21658,2,12,No,Yes
+448,27,Research & Development,6,Other,Research Scientist,Medium,31655,2,8,No,No
+449,31,Sales,37,Other,Human Resources,Low,21163,3,1,No,Yes
+450,26,Marketing,11,Marketing,Healthcare Representative,Medium,36672,2,4,Yes,Yes
+451,36,Finance,4,Medical,Human Resources,High,80378,2,12,No,No
+452,46,Finance,16,Medical,Healthcare Representative,Low,33844,4,1,Yes,Yes
+453,27,Sales,21,Medical,Sales Representative,High,33948,2,8,No,No
+454,42,Human Resources,1,Human Resources,Human Resources,High,15553,4,0,No,No
+455,31,Research & Development,2,Life Sciences,Manufacturing Director,High,31460,0,0,No,No
+456,29,Finance,2,Human Resources,Research Scientist,Medium,64553,0,7,No,No
+457,35,Marketing,11,Technical Degree,Human Resources,High,32044,1,7,No,Yes
+458,26,Marketing,9,Other,Research Scientist,Medium,30980,3,7,No,No
+459,31,Human Resources,9,Other,Laboratory Technician,Medium,63124,5,13,No,No
+460,25,Finance,28,Life Sciences,Research Scientist,Low,31045,1,0,No,Yes
+461,56,Sales,14,Technical Degree,Laboratory Technician,Low,69287,2,1,No,No
+462,37,Marketing,1,Life Sciences,Manager,High,19104,2,11,Yes,Yes
+463,30,Human Resources,4,Other,Laboratory Technician,Medium,50966,0,0,No,Yes
+464,39,Finance,5,Human Resources,Research Director,Medium,82715,0,5,No,No
+465,35,Finance,5,Medical,Manager,Low,60109,0,3,No,Yes
+466,34,Finance,11,Other,Sales Representative,Medium,14276,1,0,No,Yes
+467,43,Finance,22,Marketing,Sales Executive,Low,26392,2,1,No,Yes
+468,44,Finance,3,Medical,Laboratory Technician,High,32177,1,3,No,No
+469,31,Marketing,8,Other,Laboratory Technician,Low,60172,4,9,No,No
+470,31,Human Resources,15,Human Resources,Research Scientist,Low,18660,6,6,No,Yes
+471,34,Finance,5,Life Sciences,Sales Representative,Medium,21818,1,4,No,Yes
+472,18,Research & Development,1,Medical,Human Resources,Medium,16275,3,3,Yes,No
+473,21,Research & Development,6,Human Resources,Manufacturing Director,Medium,24030,2,1,No,No
+474,50,Human Resources,1,Technical Degree,Healthcare Representative,Medium,19422,1,0,Yes,No
+475,53,Sales,28,Marketing,Laboratory Technician,High,80737,4,2,Yes,No
+476,34,Sales,1,Medical,Human Resources,Medium,26273,1,0,Yes,No
+477,42,Sales,5,Life Sciences,Manufacturing Director,Low,51300,0,1,Yes,No
+478,40,Research & Development,7,Technical Degree,Healthcare Representative,Medium,36643,3,2,No,No
+479,65,Sales,42,Human Resources,Sales Executive,High,36387,1,2,No,No
+480,48,Marketing,1,Marketing,Research Scientist,Medium,27018,2,0,No,No
+481,35,Finance,1,Life Sciences,Human Resources,Low,53370,4,4,No,No
+482,27,Research & Development,1,Human Resources,Research Scientist,High,39229,3,3,No,No
+483,20,Human Resources,1,Human Resources,Healthcare Representative,Medium,38115,2,0,No,No
+484,39,Human Resources,2,Medical,Research Director,Medium,26991,5,14,No,No
+485,29,Finance,9,Medical,Laboratory Technician,Low,29293,2,0,No,No
+486,22,Research & Development,2,Life Sciences,Manager,Low,48749,1,9,No,Yes
+487,30,Sales,1,Other,Manufacturing Director,Medium,40742,4,0,Yes,Yes
+488,26,Sales,17,Other,Sales Representative,Medium,38628,4,10,Yes,Yes
+489,53,Marketing,4,Human Resources,Laboratory Technician,Medium,24908,4,0,No,Yes
+490,45,Marketing,4,Medical,Manager,Medium,95995,5,7,No,Yes
+491,36,Sales,3,Marketing,Human Resources,Medium,28570,3,2,Yes,No
+492,51,Human Resources,37,Marketing,Sales Executive,High,35770,0,6,Yes,Yes
+493,37,Human Resources,1,Human Resources,Laboratory Technician,High,33073,0,2,Yes,No
+494,28,Marketing,22,Medical,Research Scientist,High,96505,4,0,No,Yes
+495,52,Finance,14,Life Sciences,Research Director,Low,31400,7,7,No,No
+496,42,Sales,1,Life Sciences,Sales Representative,Low,29996,1,0,No,No
+497,26,Marketing,43,Life Sciences,Research Scientist,Medium,38528,0,12,Yes,Yes
+498,35,Marketing,3,Marketing,Manager,Low,25673,1,0,No,No
+499,28,Sales,1,Medical,Laboratory Technician,High,38399,1,3,Yes,No
+500,23,Sales,17,Medical,Research Director,Low,118871,3,6,No,Yes
+501,46,Human Resources,12,Marketing,Laboratory Technician,Medium,42186,1,2,Yes,Yes
+502,56,Finance,9,Life Sciences,Human Resources,Medium,41424,2,1,No,Yes
+503,23,Finance,1,Life Sciences,Sales Executive,Medium,25363,2,7,No,No
+504,42,Sales,6,Human Resources,Healthcare Representative,Low,85357,0,7,No,Yes
+505,30,Research & Development,15,Other,Laboratory Technician,Medium,95751,6,12,No,No
+506,32,Marketing,3,Technical Degree,Manager,Medium,55622,1,2,No,Yes
+507,31,Marketing,3,Other,Research Scientist,High,50358,8,3,Yes,No
+508,28,Sales,1,Medical,Human Resources,Low,32293,3,2,No,No
+509,37,Research & Development,1,Medical,Manager,High,44164,3,1,No,Yes
+510,28,Human Resources,20,Medical,Sales Representative,High,23918,0,6,No,Yes
+511,39,Sales,5,Other,Healthcare Representative,Medium,20680,2,2,No,No
+512,36,Sales,41,Technical Degree,Human Resources,High,17262,1,2,No,Yes
+513,34,Marketing,5,Human Resources,Sales Executive,Low,44593,1,2,No,No
+514,27,Sales,12,Other,Healthcare Representative,High,18229,2,6,Yes,Yes
+515,31,Sales,3,Technical Degree,Manager,Medium,28287,1,12,No,No
+516,44,Sales,4,Life Sciences,Sales Representative,Medium,35220,1,5,Yes,No
+517,42,Marketing,2,Life Sciences,Manufacturing Director,Medium,59733,4,3,No,No
+518,27,Human Resources,4,Medical,Sales Executive,Low,27197,4,7,No,No
+519,37,Human Resources,7,Marketing,Research Director,High,63363,0,5,Yes,No
+520,44,Sales,48,Medical,Manufacturing Director,Low,58080,9,0,No,Yes
+521,20,Marketing,10,Marketing,Laboratory Technician,Medium,21254,2,0,No,Yes
+522,42,Human Resources,2,Technical Degree,Sales Representative,Medium,63666,2,0,No,No
+523,30,Human Resources,1,Life Sciences,Research Scientist,High,31514,1,3,Yes,No
+524,42,Human Resources,1,Other,Research Director,Medium,28297,2,8,No,No
+525,29,Marketing,8,Marketing,Manager,Medium,31581,2,1,No,Yes
+526,18,Marketing,14,Technical Degree,Sales Representative,Medium,36251,3,2,No,No
+527,20,Sales,28,Life Sciences,Healthcare Representative,High,29509,0,12,No,No
+528,37,Finance,1,Other,Human Resources,Low,23864,1,9,Yes,Yes
+529,39,Human Resources,7,Marketing,Healthcare Representative,Low,24943,2,5,No,Yes
+530,27,Finance,6,Medical,Healthcare Representative,Medium,38928,3,1,No,No
+531,43,Marketing,10,Medical,Laboratory Technician,High,33515,2,0,No,No
+532,20,Marketing,8,Medical,Sales Executive,Low,47271,1,0,Yes,Yes
+533,36,Marketing,11,Technical Degree,Research Scientist,Medium,37278,3,0,No,No
+534,24,Finance,10,Medical,Research Director,Medium,37741,1,1,No,Yes
+535,30,Marketing,1,Human Resources,Sales Executive,High,48844,4,4,No,No
+536,37,Sales,16,Life Sciences,Sales Representative,High,73825,7,0,No,Yes
+537,28,Marketing,1,Technical Degree,Healthcare Representative,Medium,75320,1,0,No,No
+538,33,Research & Development,11,Other,Laboratory Technician,Medium,70983,2,0,No,No
+539,47,Finance,5,Medical,Sales Representative,Medium,56118,5,4,Yes,No
+540,31,Research & Development,7,Life Sciences,Human Resources,Low,103022,3,4,No,Yes
+541,45,Marketing,23,Marketing,Research Scientist,Medium,45202,3,4,No,Yes
+542,25,Sales,22,Medical,Research Director,Medium,42734,4,1,No,Yes
+543,42,Human Resources,17,Life Sciences,Human Resources,Medium,111520,2,2,Yes,Yes
+544,51,Marketing,7,Human Resources,Laboratory Technician,High,9292,3,0,No,Yes
+545,18,Sales,13,Marketing,Research Scientist,Medium,32632,3,1,No,Yes
+546,29,Finance,7,Human Resources,Sales Representative,Medium,67931,2,11,Yes,Yes
+547,42,Research & Development,20,Other,Healthcare Representative,Medium,59286,5,19,No,No
+548,34,Research & Development,5,Life Sciences,Healthcare Representative,Medium,130983,6,5,No,No
+549,40,Research & Development,35,Human Resources,Healthcare Representative,Medium,38320,4,12,Yes,No
+550,30,Finance,26,Other,Manufacturing Director,Medium,29277,1,5,No,No
+551,37,Sales,13,Life Sciences,Healthcare Representative,Medium,30759,3,0,No,No
+552,35,Finance,3,Life Sciences,Manufacturing Director,High,42575,1,28,No,No
+553,48,Research & Development,1,Human Resources,Manager,High,81701,3,0,Yes,Yes
+554,39,Marketing,19,Life Sciences,Manufacturing Director,Medium,82213,1,5,No,No
+555,40,Human Resources,1,Medical,Research Scientist,Low,35312,3,1,No,No
+556,32,Finance,19,Life Sciences,Human Resources,Medium,41212,2,2,No,No
+557,32,Finance,6,Technical Degree,Research Scientist,Medium,26747,2,5,No,No
+558,32,Sales,5,Other,Human Resources,Low,28180,1,2,No,No
+559,40,Sales,23,Life Sciences,Manager,High,61275,4,1,Yes,No
+560,32,Finance,9,Technical Degree,Human Resources,High,80911,5,2,No,No
+561,39,Research & Development,8,Life Sciences,Human Resources,High,25625,1,2,No,No
+562,57,Human Resources,8,Life Sciences,Laboratory Technician,Low,41006,1,16,No,No
+563,45,Sales,4,Human Resources,Sales Executive,High,32159,3,8,No,No
+564,33,Research & Development,15,Medical,Sales Executive,High,55934,4,3,No,No
+565,49,Marketing,2,Other,Laboratory Technician,Medium,29903,4,1,No,No
+566,32,Sales,27,Medical,Healthcare Representative,Medium,13860,4,8,No,Yes
+567,18,Research & Development,22,Marketing,Laboratory Technician,High,59984,1,0,No,No
+568,26,Research & Development,4,Human Resources,Human Resources,Medium,31202,1,1,Yes,No
+569,18,Human Resources,13,Human Resources,Human Resources,Medium,32868,3,2,Yes,No
+570,33,Human Resources,8,Medical,Laboratory Technician,Medium,45152,4,10,No,No
+571,37,Marketing,4,Human Resources,Laboratory Technician,Medium,43322,2,0,No,Yes
+572,53,Research & Development,44,Medical,Healthcare Representative,Low,45618,0,0,No,Yes
+573,40,Research & Development,1,Human Resources,Research Scientist,High,16076,1,3,No,No
+574,34,Human Resources,2,Life Sciences,Manager,Medium,47961,2,1,No,No
+575,45,Sales,7,Medical,Sales Representative,Medium,13981,3,4,No,No
+576,18,Sales,7,Medical,Human Resources,Low,53358,0,3,No,Yes
+577,39,Finance,8,Technical Degree,Manager,Medium,63525,1,2,Yes,No
+578,44,Human Resources,13,Human Resources,Laboratory Technician,Low,18319,3,0,No,No
+579,22,Finance,9,Human Resources,Healthcare Representative,Low,42796,4,0,No,Yes
+580,48,Human Resources,9,Medical,Manufacturing Director,Medium,61610,3,8,No,No
+581,40,Marketing,1,Life Sciences,Healthcare Representative,Medium,29012,3,10,Yes,No
+582,32,Research & Development,4,Life Sciences,Research Director,Medium,50859,2,1,Yes,Yes
+583,43,Marketing,2,Other,Research Director,Low,9020,3,0,No,Yes
+584,59,Human Resources,3,Life Sciences,Manager,Medium,62887,0,0,No,No
+585,38,Research & Development,8,Human Resources,Sales Executive,Low,36864,4,4,No,No
+586,39,Sales,2,Technical Degree,Research Director,High,31923,3,6,No,No
+587,32,Sales,3,Medical,Research Director,Medium,59398,3,2,No,No
+588,28,Finance,2,Marketing,Research Scientist,Medium,86218,2,5,No,No
+589,45,Human Resources,29,Technical Degree,Manufacturing Director,Medium,46298,2,6,No,No
+590,28,Human Resources,28,Marketing,Research Scientist,Low,81174,0,13,Yes,Yes
+591,37,Sales,9,Technical Degree,Manufacturing Director,High,16703,0,0,No,No
+592,32,Marketing,25,Life Sciences,Sales Representative,Medium,50664,3,1,No,Yes
+593,41,Research & Development,15,Human Resources,Human Resources,Medium,33995,6,0,No,No
+594,40,Marketing,8,Marketing,Research Director,Medium,24486,1,10,No,No
+595,47,Marketing,1,Technical Degree,Human Resources,Low,13844,1,7,Yes,Yes
+596,31,Sales,14,Human Resources,Research Director,High,49310,0,4,No,No
+597,34,Sales,12,Marketing,Research Scientist,Medium,56254,2,0,No,Yes
+598,27,Sales,9,Medical,Sales Representative,Medium,71040,2,1,No,Yes
+599,32,Finance,14,Technical Degree,Research Scientist,Low,65397,4,1,No,No
+600,40,Marketing,7,Medical,Research Scientist,Low,24689,3,4,No,No
+601,44,Human Resources,12,Life Sciences,Manufacturing Director,High,69241,3,1,No,No
+602,27,Research & Development,27,Medical,Sales Executive,Medium,72997,0,0,No,No
+603,45,Finance,4,Medical,Healthcare Representative,Medium,31888,2,6,No,No
+604,50,Human Resources,12,Other,Manager,Low,36835,1,1,No,No
+605,41,Marketing,6,Technical Degree,Human Resources,Medium,22763,1,3,Yes,Yes
+606,55,Sales,11,Life Sciences,Research Director,Medium,76148,7,0,Yes,No
+607,29,Marketing,14,Medical,Research Scientist,Medium,17053,5,8,No,No
+608,24,Research & Development,1,Human Resources,Sales Executive,Medium,47452,1,4,Yes,Yes
+609,19,Finance,10,Marketing,Research Scientist,Medium,26945,1,11,Yes,No
+610,51,Finance,2,Medical,Sales Representative,Medium,20870,2,3,No,Yes
+611,43,Research & Development,11,Life Sciences,Manufacturing Director,High,14223,1,14,Yes,Yes
+612,36,Human Resources,6,Medical,Healthcare Representative,Low,32607,4,11,Yes,No
+613,39,Human Resources,14,Marketing,Sales Representative,Medium,19297,3,4,No,No
+614,25,Finance,1,Life Sciences,Laboratory Technician,Medium,37354,3,13,No,No
+615,61,Finance,9,Technical Degree,Research Scientist,Medium,87962,3,1,No,No
+616,38,Sales,3,Life Sciences,Sales Representative,Medium,40124,0,2,No,No
+617,38,Human Resources,19,Technical Degree,Healthcare Representative,High,98581,3,0,No,Yes
+618,44,Research & Development,26,Life Sciences,Sales Executive,Medium,22222,3,4,No,Yes
+619,41,Human Resources,50,Marketing,Sales Executive,Medium,19139,1,6,No,No
+620,39,Sales,15,Marketing,Human Resources,Medium,21730,5,7,No,Yes
+621,29,Finance,14,Life Sciences,Healthcare Representative,Low,35152,3,0,No,No
+622,41,Finance,2,Medical,Sales Executive,Low,141700,3,2,No,No
+623,55,Sales,4,Marketing,Sales Representative,High,15818,2,0,No,No
+624,50,Research & Development,6,Technical Degree,Human Resources,Low,49505,1,5,Yes,No
+625,52,Finance,14,Technical Degree,Sales Executive,Medium,25591,3,0,No,Yes
+626,31,Marketing,24,Human Resources,Manufacturing Director,Medium,32470,3,11,Yes,Yes
+627,27,Finance,2,Other,Laboratory Technician,Medium,19360,2,1,No,Yes
+628,35,Marketing,25,Other,Healthcare Representative,Medium,56363,5,1,No,No
+629,37,Sales,11,Other,Sales Representative,Medium,35526,2,9,No,No
+630,47,Sales,9,Technical Degree,Research Director,Low,62550,2,3,Yes,No
+631,20,Finance,2,Human Resources,Research Scientist,Medium,39641,4,0,No,Yes
+632,52,Human Resources,1,Other,Sales Representative,Medium,13824,1,3,Yes,Yes
+633,35,Marketing,8,Other,Sales Executive,Medium,62835,3,0,No,No
+634,32,Research & Development,10,Life Sciences,Sales Representative,Medium,13273,2,21,No,Yes
+635,26,Finance,2,Life Sciences,Research Director,Medium,14257,3,4,Yes,Yes
+636,20,Research & Development,8,Life Sciences,Research Scientist,Low,22957,3,1,No,Yes
+637,45,Finance,19,Medical,Human Resources,Medium,23111,2,4,Yes,No
+638,37,Human Resources,18,Other,Sales Executive,Low,72985,3,0,No,No
+639,24,Human Resources,26,Medical,Manager,High,33336,2,8,Yes,Yes
+640,24,Human Resources,4,Human Resources,Sales Executive,Medium,67757,2,12,Yes,No
+641,33,Human Resources,3,Technical Degree,Laboratory Technician,Medium,27338,4,10,Yes,No
+642,53,Sales,13,Other,Manager,Medium,42566,3,2,Yes,Yes
+643,34,Sales,5,Technical Degree,Laboratory Technician,Low,46028,4,1,No,No
+644,21,Marketing,1,Life Sciences,Research Director,Medium,51432,6,0,No,No
+645,34,Research & Development,3,Other,Healthcare Representative,Low,28782,3,5,No,No
+646,34,Finance,5,Marketing,Research Scientist,Low,30063,3,3,Yes,Yes
+647,18,Finance,3,Medical,Manufacturing Director,Medium,31286,0,3,No,No
+648,36,Sales,4,Medical,Human Resources,Medium,15895,5,11,No,No
+649,34,Finance,3,Other,Manufacturing Director,High,34823,2,0,No,No
+650,43,Sales,1,Life Sciences,Research Director,Medium,29976,1,0,No,No
+651,55,Marketing,10,Medical,Healthcare Representative,Medium,48534,4,0,No,No
+652,48,Research & Development,9,Life Sciences,Sales Executive,Medium,38011,4,1,Yes,No
+653,34,Marketing,10,Human Resources,Sales Representative,Low,70840,3,0,No,No
+654,25,Human Resources,2,Technical Degree,Laboratory Technician,Medium,37610,4,3,No,No
+655,62,Human Resources,3,Marketing,Research Director,Medium,27416,1,1,No,No
+656,37,Human Resources,9,Technical Degree,Laboratory Technician,Medium,37378,4,0,Yes,Yes
+657,37,Marketing,9,Technical Degree,Sales Executive,Medium,52160,1,6,Yes,No
+658,36,Finance,7,Human Resources,Healthcare Representative,High,14963,5,1,No,Yes
+659,38,Research & Development,4,Medical,Research Scientist,High,25396,0,5,Yes,Yes
+660,35,Human Resources,24,Marketing,Manufacturing Director,Medium,25665,2,2,Yes,Yes
+661,31,Human Resources,4,Medical,Sales Executive,Medium,44600,2,3,No,Yes
+662,31,Human Resources,6,Other,Human Resources,Medium,47270,1,13,No,No
+663,36,Research & Development,11,Technical Degree,Manager,Medium,38200,4,0,No,Yes
+664,31,Human Resources,7,Other,Research Director,Medium,10516,1,3,Yes,No
+665,29,Research & Development,4,Life Sciences,Manufacturing Director,Medium,15899,4,9,No,No
+666,38,Human Resources,5,Technical Degree,Human Resources,High,32226,2,4,Yes,Yes
+667,34,Marketing,15,Medical,Research Scientist,Medium,28261,1,1,No,No
+668,52,Marketing,3,Technical Degree,Human Resources,Medium,36413,1,2,No,Yes
+669,18,Research & Development,1,Life Sciences,Healthcare Representative,Medium,28718,3,5,No,No
+670,47,Marketing,3,Human Resources,Manager,High,78105,2,11,No,No
+671,49,Research & Development,18,Other,Laboratory Technician,Medium,11533,0,0,No,Yes
+672,18,Marketing,1,Other,Manufacturing Director,Medium,42248,3,0,Yes,Yes
+673,33,Marketing,47,Medical,Manager,Medium,54940,1,1,Yes,No
+674,33,Research & Development,7,Technical Degree,Sales Representative,High,51573,0,1,No,Yes
+675,22,Finance,41,Medical,Sales Executive,Low,53832,6,1,Yes,No
+676,29,Marketing,27,Human Resources,Sales Representative,High,57847,2,1,No,No
+677,25,Human Resources,6,Technical Degree,Sales Executive,Medium,26849,5,1,Yes,Yes
+678,54,Finance,2,Technical Degree,Healthcare Representative,Medium,20936,2,0,No,Yes
+679,46,Research & Development,1,Medical,Manager,Medium,13130,4,13,No,Yes
+680,49,Finance,2,Medical,Research Scientist,Medium,30293,1,0,No,No
+681,44,Sales,12,Life Sciences,Human Resources,Low,24618,3,1,No,No
+682,25,Sales,3,Human Resources,Manager,High,64913,1,1,Yes,Yes
+683,31,Marketing,4,Life Sciences,Sales Representative,Medium,31452,0,13,No,Yes
+684,41,Marketing,5,Other,Research Director,Medium,21694,2,7,No,No
+685,24,Human Resources,24,Technical Degree,Sales Executive,Low,20044,1,7,Yes,Yes
+686,44,Finance,2,Medical,Research Director,Medium,98165,1,0,No,No
+687,34,Sales,1,Technical Degree,Manufacturing Director,Medium,35916,3,9,No,No
+688,33,Marketing,1,Technical Degree,Research Director,Medium,24569,1,2,No,Yes
+689,44,Finance,23,Marketing,Manager,Medium,38639,3,1,No,No
+690,41,Marketing,10,Other,Human Resources,Medium,93755,1,4,No,Yes
+691,33,Marketing,3,Marketing,Manufacturing Director,High,29886,4,8,No,No
+692,48,Sales,1,Technical Degree,Research Scientist,Medium,51200,3,7,Yes,No
+693,26,Sales,3,Medical,Research Scientist,High,65724,5,11,No,No
+694,43,Marketing,1,Technical Degree,Healthcare Representative,Low,14105,5,13,No,No
+695,42,Research & Development,28,Other,Human Resources,Medium,26391,1,1,No,No
+696,33,Marketing,15,Marketing,Laboratory Technician,Medium,61731,3,2,No,No
+697,40,Marketing,6,Medical,Research Director,Medium,25600,2,0,No,Yes
+698,24,Human Resources,20,Technical Degree,Manufacturing Director,High,44681,2,10,No,No
+699,46,Human Resources,2,Human Resources,Manager,Low,24853,5,0,No,Yes
+700,35,Human Resources,12,Other,Manager,Low,29063,5,9,No,Yes
+701,31,Research & Development,19,Other,Laboratory Technician,High,27345,2,1,Yes,No
+702,47,Research & Development,4,Human Resources,Healthcare Representative,Medium,49927,0,2,No,No
+703,29,Marketing,14,Technical Degree,Laboratory Technician,Medium,40166,4,0,No,No
+704,22,Human Resources,3,Other,Sales Executive,Medium,38155,3,1,No,No
+705,21,Research & Development,3,Medical,Sales Representative,High,127229,5,10,Yes,Yes
+706,43,Sales,1,Technical Degree,Manufacturing Director,Low,86668,0,0,No,Yes
+707,24,Marketing,5,Technical Degree,Sales Representative,Low,13485,1,2,No,No
+708,54,Finance,13,Marketing,Laboratory Technician,Medium,29094,2,0,No,Yes
+709,18,Marketing,28,Other,Healthcare Representative,High,122177,1,2,Yes,No
+710,53,Finance,9,Other,Healthcare Representative,Medium,27247,4,0,No,Yes
+711,39,Human Resources,19,Human Resources,Research Scientist,Medium,103143,1,1,Yes,No
+712,36,Finance,17,Marketing,Research Scientist,Medium,29343,4,10,No,No
+713,31,Human Resources,1,Marketing,Manufacturing Director,High,32305,0,2,Yes,No
+714,40,Sales,6,Other,Manufacturing Director,High,55926,0,1,No,No
+715,36,Finance,1,Technical Degree,Manufacturing Director,High,34713,3,4,Yes,No
+716,48,Marketing,11,Marketing,Manager,Low,46504,4,0,Yes,Yes
+717,38,Human Resources,29,Human Resources,Research Scientist,Low,79815,4,1,Yes,No
+718,38,Marketing,1,Marketing,Manager,Medium,53071,3,3,No,No
+719,33,Research & Development,13,Human Resources,Sales Representative,High,38978,1,1,No,No
+720,36,Human Resources,10,Marketing,Laboratory Technician,Medium,83848,2,5,No,No
+721,40,Finance,8,Human Resources,Research Director,Medium,56294,1,3,No,Yes
+722,19,Human Resources,4,Marketing,Research Scientist,High,25165,3,7,No,No
+723,23,Marketing,4,Marketing,Research Director,Low,97737,3,14,No,No
+724,44,Sales,1,Medical,Healthcare Representative,Medium,50070,3,0,Yes,No
+725,38,Human Resources,2,Human Resources,Research Scientist,Medium,32635,0,2,Yes,No
+726,35,Finance,1,Human Resources,Sales Representative,Medium,13221,1,1,No,No
+727,37,Research & Development,8,Human Resources,Research Scientist,High,18237,0,0,No,No
+728,40,Sales,1,Life Sciences,Manager,Medium,84971,2,8,Yes,No
+729,31,Research & Development,20,Marketing,Laboratory Technician,Medium,86667,4,7,Yes,No
+730,29,Human Resources,7,Human Resources,Human Resources,Medium,37897,2,3,Yes,No
+731,38,Marketing,12,Other,Laboratory Technician,Medium,14986,3,3,No,No
+732,27,Marketing,5,Life Sciences,Laboratory Technician,Medium,21089,4,0,Yes,Yes
+733,41,Finance,8,Medical,Healthcare Representative,Medium,16124,2,4,No,No
+734,19,Marketing,28,Human Resources,Sales Representative,Low,15834,3,7,No,Yes
+735,47,Sales,1,Human Resources,Research Director,Low,100047,3,4,No,Yes
+736,41,Marketing,2,Life Sciences,Sales Representative,Medium,101717,3,1,Yes,No
+737,39,Finance,15,Marketing,Human Resources,Medium,20734,1,5,Yes,No
+738,46,Human Resources,1,Other,Healthcare Representative,High,36157,2,2,No,No
+739,53,Human Resources,1,Medical,Laboratory Technician,High,19103,1,3,No,No
+740,47,Marketing,4,Human Resources,Manager,High,36039,0,3,No,No
+741,18,Research & Development,1,Marketing,Healthcare Representative,Medium,82425,2,2,No,No
+742,24,Human Resources,8,Other,Manufacturing Director,Medium,62277,1,6,No,No
+743,30,Marketing,2,Other,Research Scientist,Medium,54411,7,10,No,No
+744,37,Finance,22,Medical,Sales Representative,Low,32955,1,0,No,Yes
+745,42,Marketing,15,Technical Degree,Healthcare Representative,Low,68253,2,13,No,Yes
+746,29,Human Resources,12,Other,Manufacturing Director,Medium,50178,2,3,Yes,Yes
+747,38,Finance,9,Technical Degree,Research Director,High,44442,5,6,Yes,Yes
+748,29,Marketing,19,Other,Human Resources,Low,34279,2,9,Yes,Yes
+749,30,Sales,2,Medical,Human Resources,Low,42581,2,3,Yes,Yes
+750,22,Finance,20,Life Sciences,Laboratory Technician,High,41945,0,9,No,No
+751,27,Sales,15,Medical,Laboratory Technician,Medium,27702,1,0,No,No
+752,23,Research & Development,13,Medical,Healthcare Representative,High,24650,0,0,No,Yes
+753,27,Finance,8,Life Sciences,Healthcare Representative,High,22060,4,5,No,No
+754,47,Sales,2,Life Sciences,Research Scientist,High,22778,1,10,Yes,No
+755,27,Human Resources,5,Marketing,Sales Executive,Medium,33055,4,11,No,No
+756,63,Human Resources,15,Other,Research Director,Medium,30444,3,5,Yes,No
+757,41,Research & Development,1,Marketing,Laboratory Technician,Medium,26625,2,3,No,No
+758,38,Finance,15,Life Sciences,Sales Executive,Medium,25657,2,2,No,No
+759,28,Finance,2,Technical Degree,Sales Executive,Medium,42021,3,19,No,No
+760,44,Finance,1,Technical Degree,Research Scientist,Low,72316,3,1,No,Yes
+761,31,Research & Development,1,Medical,Manager,Medium,36117,2,6,Yes,No
+762,38,Finance,1,Human Resources,Manager,Medium,34955,3,3,No,No
+763,62,Human Resources,7,Medical,Laboratory Technician,High,22755,3,4,Yes,No
+764,36,Sales,2,Medical,Manufacturing Director,High,32482,5,2,Yes,Yes
+765,48,Human Resources,45,Human Resources,Research Scientist,Medium,65852,0,16,No,No
+766,29,Human Resources,8,Other,Research Scientist,Low,61006,1,4,Yes,No
+767,36,Sales,1,Life Sciences,Sales Representative,High,58923,3,13,No,No
+768,54,Human Resources,11,Technical Degree,Sales Executive,Medium,57984,3,0,No,Yes
+769,30,Research & Development,22,Medical,Sales Representative,High,45178,1,4,No,No
+770,55,Sales,13,Human Resources,Sales Executive,High,44382,0,6,Yes,Yes
+771,44,Human Resources,1,Marketing,Manager,Low,41042,1,6,No,No
+772,31,Marketing,22,Medical,Laboratory Technician,High,29482,3,11,No,No
+773,43,Human Resources,15,Technical Degree,Research Director,Low,37867,1,0,No,No
+774,46,Research & Development,1,Life Sciences,Manager,Medium,40449,4,0,No,No
+775,43,Finance,1,Medical,Research Scientist,Medium,49840,1,3,No,No
+776,21,Human Resources,8,Medical,Research Director,Low,38182,1,0,No,No
+777,29,Finance,1,Other,Healthcare Representative,High,104045,2,18,No,No
+778,34,Marketing,17,Human Resources,Research Director,Low,19832,3,1,Yes,No
+779,36,Human Resources,4,Marketing,Research Director,Low,52957,3,3,No,No
+780,43,Sales,24,Marketing,Manager,Medium,35574,1,0,No,Yes
+781,38,Finance,8,Life Sciences,Research Scientist,High,36354,3,3,No,No
+782,23,Marketing,2,Technical Degree,Research Director,High,24190,2,2,Yes,No
+783,40,Sales,1,Life Sciences,Manager,High,60456,3,0,No,Yes
+784,43,Sales,8,Medical,Manager,Medium,50333,3,2,No,No
+785,42,Sales,14,Medical,Research Director,Medium,55095,3,2,No,Yes
+786,47,Sales,15,Marketing,Sales Executive,Low,39522,3,22,Yes,No
+787,45,Human Resources,3,Technical Degree,Research Scientist,Low,30870,5,1,No,Yes
+788,41,Human Resources,2,Human Resources,Human Resources,Medium,35126,5,3,No,Yes
+789,36,Human Resources,1,Technical Degree,Research Director,Medium,45104,4,21,No,No
+790,20,Marketing,11,Medical,Sales Representative,Medium,13322,1,7,No,Yes
+791,41,Marketing,1,Human Resources,Sales Representative,High,56188,4,25,No,No
+792,39,Marketing,5,Technical Degree,Healthcare Representative,Medium,122161,2,17,No,Yes
+793,39,Research & Development,9,Technical Degree,Research Scientist,Low,46173,1,3,No,No
+794,24,Marketing,27,Human Resources,Manager,Low,31556,2,5,Yes,Yes
+795,26,Human Resources,3,Medical,Laboratory Technician,High,33502,2,0,No,No
+796,47,Human Resources,2,Technical Degree,Manufacturing Director,High,51728,7,2,Yes,No
+797,36,Research & Development,10,Human Resources,Research Scientist,High,31915,4,8,Yes,No
+798,43,Research & Development,9,Other,Research Scientist,Low,56068,2,3,No,No
+799,37,Marketing,4,Other,Research Director,High,33287,3,6,No,No
+800,37,Finance,26,Medical,Research Director,Medium,85570,3,6,No,No
+801,46,Research & Development,18,Human Resources,Manager,Low,84397,5,1,No,Yes
+802,31,Sales,2,Other,Healthcare Representative,High,30789,4,10,No,No
+803,37,Human Resources,2,Human Resources,Research Director,Medium,34873,1,3,Yes,No
+804,32,Sales,7,Technical Degree,Manufacturing Director,Medium,35911,2,1,Yes,No
+805,32,Human Resources,14,Medical,Manufacturing Director,Low,36153,2,10,No,Yes
+806,33,Human Resources,1,Other,Healthcare Representative,Medium,22613,3,2,Yes,Yes
+807,39,Research & Development,11,Technical Degree,Sales Executive,High,21086,3,6,No,No
+808,32,Research & Development,10,Life Sciences,Sales Executive,Medium,67838,6,3,No,Yes
+809,49,Sales,2,Life Sciences,Research Scientist,Medium,62623,0,2,No,No
+810,28,Human Resources,11,Medical,Research Director,Low,62085,2,8,No,Yes
+811,35,Sales,28,Other,Sales Representative,Medium,35077,2,4,Yes,No
+812,32,Finance,1,Other,Human Resources,Medium,93527,2,2,No,No
+813,51,Sales,3,Other,Healthcare Representative,Medium,35909,5,0,Yes,No
+814,38,Marketing,5,Human Resources,Research Scientist,Medium,55906,0,11,No,No
+815,47,Sales,22,Technical Degree,Sales Representative,Low,18136,2,0,Yes,Yes
+816,22,Marketing,32,Other,Research Director,High,32374,1,9,No,No
+817,39,Marketing,5,Technical Degree,Sales Representative,Medium,33593,4,2,No,No
+818,45,Marketing,13,Medical,Sales Representative,Medium,35145,1,5,No,No
+819,37,Finance,7,Other,Healthcare Representative,Medium,18718,2,12,No,Yes
+820,47,Sales,7,Medical,Research Scientist,Medium,51634,1,0,No,No
+821,31,Sales,3,Other,Manager,High,60736,4,4,No,No
+822,51,Finance,2,Life Sciences,Manufacturing Director,High,25036,1,7,No,No
+823,59,Human Resources,3,Marketing,Research Scientist,Medium,20462,2,7,No,No
+824,33,Research & Development,8,Medical,Human Resources,High,24723,4,3,No,No
+825,32,Sales,1,Other,Sales Representative,Medium,46525,3,4,No,Yes
+826,51,Research & Development,23,Marketing,Manager,Low,26948,6,7,No,Yes
+827,52,Finance,1,Medical,Healthcare Representative,Medium,33960,4,9,Yes,Yes
+828,31,Human Resources,2,Human Resources,Laboratory Technician,Medium,21232,0,7,No,No
+829,32,Human Resources,7,Other,Manufacturing Director,Medium,97698,1,2,No,No
+830,34,Human Resources,12,Human Resources,Laboratory Technician,High,37669,1,28,No,No
+831,23,Finance,1,Life Sciences,Research Director,Medium,64528,2,2,No,No
+832,27,Marketing,3,Other,Laboratory Technician,High,46471,0,0,No,Yes
+833,26,Marketing,34,Life Sciences,Sales Representative,High,35562,5,2,No,No
+834,29,Research & Development,3,Marketing,Sales Representative,Medium,34654,5,0,No,Yes
+835,36,Marketing,3,Medical,Sales Representative,Medium,25270,6,0,No,Yes
+836,39,Marketing,18,Technical Degree,Sales Representative,Medium,28991,0,1,No,No
+837,52,Human Resources,1,Life Sciences,Research Scientist,High,21940,2,0,No,Yes
+838,27,Human Resources,6,Technical Degree,Laboratory Technician,Medium,20776,3,5,No,No
+839,46,Research & Development,4,Technical Degree,Human Resources,Low,103072,2,0,Yes,No
+840,34,Sales,3,Medical,Laboratory Technician,Medium,41750,5,1,No,Yes
+841,36,Research & Development,3,Marketing,Research Scientist,Medium,75573,3,0,No,No
+842,43,Research & Development,1,Medical,Human Resources,Low,24415,5,0,No,Yes
+843,25,Finance,3,Other,Human Resources,Low,19422,2,1,No,No
+844,40,Finance,1,Life Sciences,Manufacturing Director,Medium,22272,1,4,No,No
+845,38,Research & Development,15,Technical Degree,Human Resources,Medium,29406,4,16,No,No
+846,41,Research & Development,5,Medical,Laboratory Technician,Medium,36984,1,10,No,No
+847,39,Research & Development,5,Medical,Sales Representative,Medium,33675,3,10,No,No
+848,61,Marketing,22,Medical,Sales Representative,Low,24671,0,0,No,Yes
+849,30,Finance,10,Life Sciences,Research Director,Medium,37943,2,1,No,No
+850,31,Research & Development,1,Marketing,Manufacturing Director,Medium,39643,1,0,No,No
+851,30,Human Resources,28,Medical,Laboratory Technician,Medium,51592,6,7,No,No
+852,31,Human Resources,2,Life Sciences,Laboratory Technician,Medium,75751,2,0,No,No
+853,30,Marketing,1,Technical Degree,Healthcare Representative,Medium,30274,3,4,No,No
+854,48,Marketing,14,Other,Sales Executive,Low,66685,3,1,Yes,No
+855,51,Sales,6,Human Resources,Laboratory Technician,Low,37532,0,1,No,No
+856,31,Sales,5,Life Sciences,Manager,Low,16921,0,23,No,Yes
+857,28,Sales,2,Human Resources,Laboratory Technician,High,88577,1,7,No,No
+858,41,Marketing,7,Medical,Healthcare Representative,High,113127,0,9,Yes,No
+859,31,Marketing,3,Medical,Human Resources,High,49491,2,4,No,No
+860,43,Marketing,23,Life Sciences,Research Scientist,High,37982,2,10,Yes,No
+861,39,Human Resources,2,Human Resources,Research Scientist,Medium,31707,5,5,No,No
+862,21,Marketing,21,Medical,Manager,Medium,28796,1,14,No,No
+863,52,Human Resources,8,Technical Degree,Manager,Medium,66526,3,1,No,Yes
+864,54,Sales,17,Marketing,Research Director,Low,36003,1,4,No,No
+865,30,Sales,12,Marketing,Research Scientist,Medium,83865,5,5,No,Yes
+866,33,Sales,11,Medical,Human Resources,High,36954,0,2,Yes,No
+867,39,Research & Development,3,Human Resources,Research Scientist,Medium,29549,2,10,No,No
+868,40,Research & Development,2,Other,Sales Executive,Medium,26885,1,19,No,No
+869,43,Finance,2,Medical,Research Scientist,Medium,25037,2,3,No,No
+870,57,Finance,19,Other,Sales Representative,Medium,46961,2,2,No,No
+871,35,Finance,17,Other,Research Director,Medium,19010,1,3,No,Yes
+872,29,Research & Development,5,Human Resources,Healthcare Representative,High,24120,1,9,No,No
+873,23,Research & Development,1,Other,Manager,Medium,70420,4,5,No,No
+874,29,Finance,4,Technical Degree,Sales Executive,High,22532,4,0,No,No
+875,36,Finance,9,Human Resources,Manager,Medium,55901,2,3,No,No
+876,54,Marketing,6,Medical,Research Director,High,12945,0,0,Yes,No
+877,31,Finance,15,Technical Degree,Laboratory Technician,Medium,74985,1,7,No,No
+878,39,Marketing,50,Life Sciences,Sales Executive,Medium,19242,6,1,No,Yes
+879,36,Human Resources,2,Marketing,Manufacturing Director,Medium,23430,1,3,Yes,No
+880,48,Research & Development,6,Medical,Sales Executive,High,51030,5,8,Yes,No
+881,62,Finance,5,Medical,Research Director,High,41572,1,0,Yes,No
+882,31,Research & Development,3,Medical,Healthcare Representative,Low,56811,5,0,No,Yes
+883,32,Research & Development,2,Technical Degree,Sales Executive,Low,19165,3,2,No,No
+884,47,Research & Development,1,Life Sciences,Research Director,High,31463,1,1,No,No
+885,43,Human Resources,21,Human Resources,Human Resources,Medium,26674,1,2,Yes,Yes
+886,55,Sales,5,Life Sciences,Research Scientist,Medium,20845,3,31,No,Yes
+887,42,Finance,6,Technical Degree,Human Resources,Medium,48920,5,8,No,No
+888,33,Sales,24,Medical,Research Director,Low,58193,2,10,Yes,No
+889,42,Sales,14,Marketing,Sales Representative,High,30686,1,13,No,No
+890,48,Sales,1,Medical,Laboratory Technician,High,77757,0,2,No,No
+891,45,Research & Development,8,Human Resources,Research Scientist,Medium,24517,2,1,No,No
+892,42,Marketing,5,Other,Sales Representative,Medium,76821,6,1,No,Yes
+893,47,Research & Development,15,Marketing,Healthcare Representative,High,48103,1,8,Yes,No
+894,48,Research & Development,12,Medical,Manager,Low,19696,4,5,No,Yes
+895,50,Sales,11,Marketing,Manufacturing Director,High,97808,4,1,Yes,Yes
+896,43,Research & Development,4,Other,Research Scientist,Medium,29078,1,2,Yes,No
+897,35,Sales,16,Life Sciences,Human Resources,Medium,66340,1,3,No,No
+898,38,Marketing,1,Technical Degree,Laboratory Technician,High,39058,1,3,No,No
+899,49,Finance,1,Medical,Sales Representative,Medium,43792,2,10,Yes,No
+900,28,Sales,4,Human Resources,Research Director,Medium,56988,4,2,Yes,No
+901,40,Marketing,1,Life Sciences,Research Scientist,Medium,55432,4,11,No,No
+902,33,Finance,2,Medical,Manager,Medium,30605,2,2,No,No
+903,37,Human Resources,17,Life Sciences,Research Director,Medium,47374,3,6,No,No
+904,49,Sales,29,Human Resources,Sales Representative,High,45629,2,13,No,No
+905,38,Sales,3,Medical,Laboratory Technician,High,40407,2,11,Yes,No
+906,37,Human Resources,3,Other,Sales Executive,Medium,32805,4,0,No,No
+907,23,Human Resources,3,Other,Manager,Medium,40367,1,1,Yes,Yes
+908,44,Sales,3,Human Resources,Research Director,Low,97126,1,3,No,Yes
+909,43,Human Resources,1,Marketing,Manager,Low,31334,1,2,Yes,No
+910,58,Research & Development,26,Human Resources,Healthcare Representative,Medium,66389,3,5,No,No
+911,33,Finance,2,Marketing,Research Director,High,26640,2,14,No,No
+912,39,Finance,5,Medical,Research Scientist,Medium,23373,6,0,No,No
+913,39,Finance,1,Marketing,Sales Executive,High,186875,2,3,Yes,No
+914,52,Research & Development,19,Medical,Sales Executive,Low,47572,2,1,No,No
+915,36,Human Resources,13,Medical,Manufacturing Director,Medium,48230,3,11,No,No
+916,39,Marketing,29,Technical Degree,Manager,Medium,48903,3,16,No,Yes
+917,43,Human Resources,15,Medical,Human Resources,Medium,73397,1,3,No,Yes
+918,38,Sales,3,Marketing,Sales Executive,Low,44529,2,0,No,No
+919,32,Finance,2,Technical Degree,Sales Executive,High,54617,2,7,No,No
+920,38,Human Resources,11,Technical Degree,Healthcare Representative,Medium,21390,5,5,No,Yes
+921,47,Marketing,4,Medical,Healthcare Representative,High,59394,3,2,No,No
+922,26,Sales,8,Human Resources,Healthcare Representative,Medium,32261,3,10,Yes,Yes
+923,38,Research & Development,1,Human Resources,Manager,High,50811,2,18,Yes,No
+924,29,Research & Development,1,Other,Research Director,Medium,15404,4,4,No,Yes
+925,48,Marketing,7,Technical Degree,Laboratory Technician,High,49766,0,4,No,No
+926,21,Sales,8,Medical,Human Resources,Low,11837,1,1,No,Yes
+927,31,Finance,13,Human Resources,Sales Executive,High,31635,3,4,No,No
+928,40,Human Resources,1,Medical,Manufacturing Director,High,15478,2,2,No,No
+929,52,Sales,7,Medical,Human Resources,Low,49837,2,1,No,No
+930,36,Research & Development,2,Technical Degree,Research Director,Low,37595,4,0,No,No
+931,31,Marketing,1,Other,Human Resources,Medium,24701,0,1,No,No
+932,55,Marketing,5,Technical Degree,Sales Executive,High,74399,6,1,No,No
+933,22,Human Resources,1,Life Sciences,Human Resources,Medium,23194,1,3,No,Yes
+934,18,Marketing,2,Human Resources,Laboratory Technician,Medium,7977,3,4,No,No
+935,41,Marketing,3,Human Resources,Human Resources,Low,46949,2,4,No,No
+936,31,Sales,3,Human Resources,Sales Executive,Low,15013,1,2,No,No
+937,26,Finance,1,Marketing,Sales Executive,High,23564,1,2,No,No
+938,44,Human Resources,1,Medical,Human Resources,Low,28038,1,8,No,No
+939,39,Sales,2,Technical Degree,Manager,Medium,17818,2,3,Yes,No
+940,31,Finance,1,Human Resources,Manufacturing Director,High,28371,0,22,Yes,No
+941,24,Sales,9,Life Sciences,Sales Representative,Medium,17986,0,2,No,Yes
+942,45,Sales,3,Human Resources,Healthcare Representative,Medium,39387,4,5,No,No
+943,43,Marketing,3,Other,Sales Representative,Low,19645,3,0,Yes,Yes
+944,36,Finance,4,Medical,Research Director,Medium,36867,2,5,No,No
+945,55,Human Resources,10,Medical,Research Director,Low,64926,0,9,No,No
+946,26,Human Resources,20,Technical Degree,Sales Executive,High,53700,2,14,Yes,No
+947,21,Finance,14,Marketing,Research Director,Medium,34861,0,29,No,No
+948,30,Marketing,13,Technical Degree,Manager,Medium,22150,6,1,No,Yes
+949,36,Research & Development,6,Human Resources,Manufacturing Director,Medium,39323,4,4,Yes,No
+950,39,Sales,11,Other,Research Director,Low,25645,1,2,No,No
+951,34,Marketing,8,Life Sciences,Laboratory Technician,High,40157,3,4,No,No
+952,40,Finance,2,Technical Degree,Manufacturing Director,Medium,15403,5,0,No,No
+953,24,Sales,2,Marketing,Manager,Medium,54373,5,9,No,No
+954,51,Human Resources,3,Technical Degree,Sales Representative,Low,36923,3,12,Yes,Yes
+955,36,Research & Development,24,Medical,Manufacturing Director,Medium,109563,3,2,No,No
+956,48,Human Resources,7,Human Resources,Manufacturing Director,Low,69774,1,1,No,No
+957,40,Finance,13,Human Resources,Sales Representative,Medium,48198,2,0,Yes,Yes
+958,41,Sales,4,Human Resources,Manager,Medium,34132,2,5,No,No
+959,42,Finance,5,Human Resources,Research Director,High,25215,5,1,Yes,No
+960,41,Sales,1,Human Resources,Sales Executive,Medium,58174,1,12,No,No
+961,43,Marketing,1,Human Resources,Sales Representative,High,32378,2,5,Yes,Yes
+962,50,Research & Development,17,Life Sciences,Sales Representative,High,65132,1,5,No,No
+963,38,Marketing,8,Marketing,Sales Representative,Low,44374,1,4,No,No
+964,44,Marketing,4,Human Resources,Sales Representative,Medium,44533,3,0,No,No
+965,36,Finance,16,Marketing,Research Director,Low,48886,1,13,No,No
+966,51,Research & Development,2,Other,Human Resources,Medium,22929,4,4,No,No
+967,30,Sales,37,Human Resources,Human Resources,High,21784,2,25,No,No
+968,55,Sales,4,Technical Degree,Research Scientist,Medium,21410,3,3,Yes,Yes
+969,36,Human Resources,4,Human Resources,Sales Representative,Medium,61313,2,6,No,No
+970,22,Sales,3,Medical,Sales Representative,Medium,22632,3,0,No,Yes
+971,38,Finance,1,Life Sciences,Manufacturing Director,Medium,24086,0,4,No,Yes
+972,30,Marketing,1,Technical Degree,Human Resources,Low,47512,2,7,No,Yes
+973,45,Marketing,10,Technical Degree,Research Director,High,32015,3,7,Yes,Yes
+974,30,Marketing,20,Medical,Sales Executive,Medium,30034,3,7,No,No
+975,32,Research & Development,15,Human Resources,Research Scientist,High,28759,3,1,No,No
+976,18,Sales,1,Life Sciences,Research Scientist,Medium,11352,2,18,Yes,No
+977,32,Finance,7,Technical Degree,Research Director,Medium,22394,2,26,No,No
+978,18,Research & Development,1,Life Sciences,Sales Executive,Medium,65563,4,0,No,No
+979,21,Human Resources,1,Technical Degree,Manufacturing Director,Low,27730,3,13,No,No
+980,44,Finance,10,Human Resources,Healthcare Representative,Medium,14041,2,1,Yes,No
+981,44,Finance,7,Other,Human Resources,High,21938,5,5,No,No
+982,41,Finance,1,Technical Degree,Sales Representative,High,43474,3,2,Yes,Yes
+983,27,Marketing,1,Other,Research Director,Medium,43045,2,17,No,No
+984,36,Finance,45,Technical Degree,Human Resources,Medium,31346,3,0,No,Yes
+985,36,Sales,1,Marketing,Sales Representative,Low,25729,2,3,No,No
+986,25,Finance,5,Human Resources,Healthcare Representative,High,18013,1,2,Yes,No
+987,52,Marketing,7,Medical,Healthcare Representative,Low,43655,1,1,No,No
+988,45,Finance,1,Other,Manager,High,55211,3,5,No,No
+989,34,Human Resources,1,Medical,Healthcare Representative,Medium,69178,2,0,Yes,No
+990,37,Human Resources,4,Human Resources,Human Resources,Medium,20841,3,6,No,No
+991,39,Marketing,14,Medical,Laboratory Technician,High,71880,4,19,No,No
+992,18,Sales,7,Human Resources,Laboratory Technician,Low,35301,3,8,No,No
+993,34,Sales,10,Medical,Sales Representative,Medium,36801,1,9,Yes,No
+994,30,Research & Development,42,Other,Sales Representative,Medium,56771,2,2,Yes,No
+995,26,Marketing,14,Marketing,Manager,Medium,27709,2,1,No,No
+996,34,Finance,5,Medical,Laboratory Technician,Medium,12309,1,3,No,No
+997,54,Marketing,5,Other,Sales Representative,Medium,51659,4,0,Yes,Yes
+998,43,Research & Development,9,Technical Degree,Healthcare Representative,High,43229,2,14,No,No
+999,31,Marketing,10,Human Resources,Sales Representative,Low,30329,2,0,Yes,Yes
+1000,42,Marketing,6,Life Sciences,Research Scientist,High,49576,2,11,No,No
+1001,50,Research & Development,10,Life Sciences,Manager,Low,54911,1,0,No,Yes
+1002,46,Sales,1,Human Resources,Research Director,Medium,17051,2,8,No,Yes
+1003,37,Finance,5,Marketing,Sales Executive,Medium,36726,3,0,No,Yes
+1004,30,Research & Development,3,Medical,Manufacturing Director,Low,11628,2,0,Yes,No
+1005,43,Human Resources,1,Marketing,Sales Executive,Low,34137,1,6,No,No
+1006,40,Sales,1,Life Sciences,Sales Executive,High,30140,0,1,No,No
+1007,45,Human Resources,9,Other,Research Director,Medium,46441,3,6,No,No
+1008,43,Sales,7,Human Resources,Sales Representative,Low,21236,3,4,No,No
+1009,47,Finance,2,Human Resources,Sales Executive,Low,29414,3,0,No,No
+1010,31,Finance,6,Marketing,Research Scientist,High,7273,2,13,Yes,No
+1011,50,Marketing,6,Other,Manufacturing Director,High,47990,5,3,No,No
+1012,38,Human Resources,2,Marketing,Sales Executive,Medium,34745,4,6,Yes,No
+1013,57,Sales,10,Medical,Laboratory Technician,Low,37934,4,3,Yes,No
+1014,30,Finance,15,Technical Degree,Research Director,Medium,17210,1,4,No,No
+1015,54,Research & Development,15,Other,Research Director,Low,44312,4,1,No,No
+1016,38,Finance,9,Technical Degree,Research Director,Low,82981,1,1,No,No
+1017,30,Research & Development,7,Medical,Manager,Medium,33108,3,3,Yes,Yes
+1018,32,Sales,1,Technical Degree,Manager,Medium,50264,3,2,No,No
+1019,33,Finance,3,Life Sciences,Healthcare Representative,Medium,23498,3,2,No,Yes
+1020,41,Finance,1,Technical Degree,Human Resources,Medium,34946,1,5,No,No
+1021,42,Sales,33,Medical,Manufacturing Director,High,16887,4,5,Yes,No
+1022,31,Finance,1,Technical Degree,Sales Representative,High,53855,6,0,No,No
+1023,36,Research & Development,1,Human Resources,Sales Executive,Medium,39336,4,2,No,No
+1024,58,Finance,22,Marketing,Human Resources,Medium,19739,0,2,No,Yes
+1025,54,Human Resources,28,Life Sciences,Sales Representative,Medium,24320,2,0,Yes,Yes
+1026,41,Marketing,14,Human Resources,Human Resources,Medium,37441,1,1,No,No
+1027,37,Research & Development,1,Human Resources,Sales Representative,High,57637,1,0,No,No
+1028,38,Human Resources,1,Medical,Research Scientist,Medium,76096,3,27,No,Yes
+1029,43,Sales,4,Marketing,Manager,High,33959,2,6,Yes,No
+1030,26,Research & Development,1,Marketing,Manufacturing Director,High,18355,4,0,Yes,Yes
+1031,34,Marketing,1,Other,Laboratory Technician,Medium,40914,2,0,No,No
+1032,20,Marketing,6,Life Sciences,Research Scientist,Medium,88649,1,6,No,No
+1033,40,Sales,28,Medical,Manager,Low,16133,3,2,No,Yes
+1034,43,Sales,3,Life Sciences,Research Director,Medium,22532,2,7,No,No
+1035,32,Research & Development,10,Other,Manager,Medium,49290,5,12,Yes,Yes
+1036,52,Finance,10,Technical Degree,Human Resources,Medium,39214,1,4,No,No
+1037,24,Sales,2,Human Resources,Healthcare Representative,High,27653,4,1,No,No
+1038,22,Finance,10,Life Sciences,Research Scientist,Low,40540,4,7,No,Yes
+1039,39,Human Resources,2,Human Resources,Research Director,Medium,59205,0,15,No,Yes
+1040,47,Marketing,1,Medical,Human Resources,Medium,34573,2,4,No,Yes
+1041,53,Finance,12,Technical Degree,Manufacturing Director,Medium,33090,4,5,No,No
+1042,32,Marketing,1,Medical,Manager,Medium,48752,0,2,No,Yes
+1043,47,Finance,50,Technical Degree,Research Director,High,31721,1,2,No,No
+1044,36,Human Resources,2,Technical Degree,Human Resources,Medium,64296,1,6,Yes,Yes
+1045,35,Sales,9,Human Resources,Healthcare Representative,Medium,100044,3,13,No,No
+1046,45,Human Resources,5,Medical,Manager,Low,23237,1,4,No,No
+1047,43,Sales,1,Medical,Manufacturing Director,Medium,19438,1,7,No,No
+1048,21,Sales,1,Life Sciences,Healthcare Representative,High,43733,3,0,Yes,No
+1049,51,Marketing,9,Medical,Sales Representative,Medium,19096,3,1,No,Yes
+1050,50,Human Resources,16,Life Sciences,Human Resources,High,18933,7,3,Yes,No
+1051,30,Finance,18,Marketing,Manager,Medium,13035,2,0,Yes,No
+1052,40,Human Resources,6,Marketing,Manager,Low,29997,2,5,No,No
+1053,41,Marketing,15,Marketing,Research Director,Low,35721,2,1,No,Yes
+1054,39,Sales,11,Other,Manufacturing Director,Medium,28038,3,7,Yes,Yes
+1055,31,Marketing,12,Medical,Laboratory Technician,Medium,72777,9,8,No,Yes
+1056,30,Research & Development,6,Other,Sales Representative,High,70118,3,3,No,Yes
+1057,36,Research & Development,10,Medical,Healthcare Representative,Medium,95265,2,0,Yes,No
+1058,48,Finance,16,Life Sciences,Research Scientist,Medium,37170,2,5,No,No
+1059,42,Marketing,5,Other,Research Scientist,Medium,65637,1,24,No,No
+1060,33,Finance,16,Other,Manager,Medium,42379,2,4,No,No
+1061,44,Finance,8,Other,Research Director,Medium,40303,2,0,Yes,No
+1062,18,Research & Development,1,Technical Degree,Sales Executive,Low,28747,1,0,Yes,Yes
+1063,48,Finance,1,Life Sciences,Manager,Low,11712,3,1,No,Yes
+1064,19,Research & Development,4,Marketing,Research Scientist,Low,49943,1,1,No,Yes
+1065,33,Sales,7,Life Sciences,Research Scientist,Low,64670,0,8,No,No
+1066,25,Marketing,18,Technical Degree,Sales Representative,Low,16935,2,9,No,No
+1067,24,Finance,1,Medical,Sales Executive,Medium,36139,6,1,Yes,No
+1068,48,Research & Development,16,Life Sciences,Manager,Medium,59624,2,1,No,No
+1069,32,Human Resources,19,Other,Sales Representative,High,30340,1,1,Yes,No
+1070,40,Finance,1,Marketing,Research Director,Low,65943,1,11,No,No
+1071,36,Sales,19,Marketing,Sales Representative,Medium,33855,3,3,No,Yes
+1072,41,Sales,47,Medical,Manager,Medium,27928,1,5,No,Yes
+1073,37,Human Resources,12,Life Sciences,Human Resources,Low,67856,2,2,No,Yes
+1074,24,Research & Development,15,Technical Degree,Laboratory Technician,High,22768,1,4,No,No
+1075,46,Finance,50,Medical,Manager,Low,25274,3,2,Yes,Yes
+1076,32,Research & Development,9,Life Sciences,Manufacturing Director,High,23207,2,2,Yes,No
+1077,21,Sales,3,Human Resources,Research Scientist,High,20510,4,5,No,Yes
+1078,32,Research & Development,18,Marketing,Sales Executive,Medium,39203,3,4,No,Yes
+1079,52,Sales,9,Technical Degree,Sales Executive,Medium,28100,2,1,No,Yes
+1080,45,Research & Development,8,Other,Laboratory Technician,Medium,46365,4,0,Yes,No
+1081,33,Human Resources,2,Technical Degree,Manufacturing Director,Medium,15255,2,2,No,Yes
+1082,33,Marketing,14,Other,Research Scientist,Medium,20717,3,2,No,No
+1083,33,Human Resources,1,Technical Degree,Sales Executive,Low,37264,4,4,Yes,No
+1084,57,Human Resources,25,Marketing,Manufacturing Director,Low,75723,4,12,No,No
+1085,40,Marketing,3,Other,Sales Representative,Medium,43881,2,0,No,No
+1086,41,Marketing,1,Life Sciences,Manager,Medium,27046,4,1,Yes,No
+1087,47,Finance,5,Other,Manager,High,17244,1,1,Yes,No
+1088,39,Finance,1,Medical,Human Resources,Low,26267,3,3,Yes,Yes
+1089,34,Human Resources,11,Life Sciences,Research Scientist,High,35552,7,2,Yes,Yes
+1090,35,Human Resources,23,Medical,Manufacturing Director,Medium,11171,1,6,No,No
+1091,36,Sales,18,Technical Degree,Healthcare Representative,Medium,19797,1,1,Yes,Yes
+1092,36,Sales,1,Life Sciences,Sales Executive,Medium,25115,2,4,Yes,No
+1093,44,Finance,1,Technical Degree,Research Director,Medium,31929,0,10,No,No
+1094,37,Finance,16,Human Resources,Research Director,Low,35342,4,12,No,Yes
+1095,44,Sales,25,Technical Degree,Manager,Medium,26757,3,15,No,No
+1096,36,Sales,6,Technical Degree,Healthcare Representative,High,46767,3,7,No,No
+1097,37,Research & Development,6,Medical,Research Director,Medium,38651,1,11,No,Yes
+1098,18,Research & Development,3,Other,Laboratory Technician,Medium,30181,1,1,Yes,No
+1099,46,Sales,22,Human Resources,Laboratory Technician,High,50105,1,1,No,No
+1100,40,Research & Development,10,Technical Degree,Research Scientist,High,48096,8,0,No,Yes
+1101,46,Marketing,3,Technical Degree,Healthcare Representative,Medium,17555,0,6,No,No
+1102,18,Finance,3,Human Resources,Laboratory Technician,Medium,35738,3,13,No,Yes
+1103,57,Finance,22,Human Resources,Laboratory Technician,High,56677,2,1,No,No
+1104,35,Sales,1,Life Sciences,Manager,Medium,61620,6,5,No,Yes
+1105,48,Human Resources,3,Medical,Research Director,Medium,43715,4,6,Yes,No
+1106,26,Sales,8,Human Resources,Research Scientist,Medium,32317,2,13,Yes,No
+1107,43,Research & Development,1,Human Resources,Manufacturing Director,High,44831,1,5,No,No
+1108,26,Human Resources,1,Marketing,Sales Representative,Low,54387,2,17,No,No
+1109,30,Research & Development,16,Other,Sales Executive,High,38480,2,2,Yes,Yes
+1110,56,Marketing,22,Human Resources,Sales Executive,Low,40712,1,2,No,Yes
+1111,35,Research & Development,17,Medical,Sales Representative,High,32051,1,3,Yes,No
+1112,39,Marketing,22,Other,Sales Representative,Medium,18612,2,2,Yes,Yes
+1113,45,Marketing,8,Other,Sales Executive,Medium,33283,4,0,No,No
+1114,41,Research & Development,16,Technical Degree,Sales Executive,High,25885,1,6,Yes,Yes
+1115,38,Research & Development,4,Technical Degree,Manufacturing Director,Medium,25926,1,6,Yes,No
+1116,40,Marketing,10,Technical Degree,Healthcare Representative,Medium,74378,4,6,Yes,No
+1117,61,Human Resources,44,Technical Degree,Healthcare Representative,Low,58441,5,2,No,No
+1118,36,Marketing,2,Marketing,Manufacturing Director,Low,15572,1,3,Yes,No
+1119,39,Finance,4,Human Resources,Research Director,Medium,21111,1,2,No,No
+1120,47,Marketing,6,Technical Degree,Sales Representative,Medium,30279,3,0,No,No
+1121,48,Human Resources,1,Life Sciences,Human Resources,Low,26362,1,4,No,Yes
+1122,48,Finance,1,Technical Degree,Sales Representative,Low,42561,3,0,Yes,No
+1123,43,Sales,17,Human Resources,Sales Executive,Medium,19500,0,0,No,Yes
+1124,25,Sales,37,Technical Degree,Sales Representative,Medium,58645,1,7,Yes,No
+1125,53,Human Resources,5,Marketing,Sales Executive,High,35525,4,0,No,Yes
+1126,25,Marketing,1,Medical,Sales Representative,Low,30630,2,15,No,Yes
+1127,40,Research & Development,1,Medical,Research Director,Low,36056,1,3,Yes,No
+1128,29,Human Resources,22,Human Resources,Human Resources,High,29473,2,20,No,No
+1129,36,Finance,6,Medical,Laboratory Technician,Medium,13156,1,0,Yes,Yes
+1130,40,Finance,3,Medical,Manufacturing Director,High,36532,0,4,Yes,No
+1131,40,Sales,6,Life Sciences,Manufacturing Director,High,30934,2,2,No,No
+1132,41,Finance,3,Human Resources,Human Resources,High,22533,4,9,No,No
+1133,53,Human Resources,6,Human Resources,Sales Representative,Low,62863,7,2,Yes,No
+1134,41,Finance,19,Medical,Laboratory Technician,High,50752,5,1,Yes,Yes
+1135,34,Human Resources,8,Medical,Healthcare Representative,High,122937,2,9,Yes,Yes
+1136,46,Research & Development,11,Medical,Sales Representative,Medium,55128,2,2,No,No
+1137,48,Sales,4,Other,Research Director,Medium,26325,2,0,No,Yes
+1138,24,Finance,13,Marketing,Sales Executive,Medium,23088,2,2,Yes,No
+1139,42,Human Resources,10,Technical Degree,Research Scientist,Low,28363,3,5,Yes,Yes
+1140,44,Marketing,1,Marketing,Sales Representative,Medium,26021,3,1,No,No
+1141,34,Sales,8,Human Resources,Research Scientist,Medium,38345,5,2,No,Yes
+1142,50,Research & Development,2,Life Sciences,Sales Representative,Medium,16824,7,0,No,No
+1143,35,Human Resources,16,Technical Degree,Human Resources,Medium,50193,2,4,No,No
+1144,38,Research & Development,5,Life Sciences,Research Scientist,Medium,38009,3,7,Yes,No
+1145,35,Research & Development,50,Other,Sales Representative,Medium,47393,3,2,No,No
+1146,37,Finance,1,Human Resources,Manufacturing Director,High,20494,2,2,No,No
+1147,26,Finance,15,Other,Research Scientist,Low,41082,0,0,No,Yes
+1148,22,Human Resources,11,Human Resources,Sales Representative,Medium,69535,1,1,Yes,No
+1149,52,Marketing,14,Life Sciences,Healthcare Representative,Low,23617,3,0,No,Yes
+1150,28,Human Resources,3,Life Sciences,Sales Executive,Medium,23296,3,3,No,Yes
+1151,27,Marketing,6,Life Sciences,Healthcare Representative,High,51843,2,3,No,Yes
+1152,18,Research & Development,15,Human Resources,Laboratory Technician,High,22369,3,14,No,Yes
+1153,30,Sales,2,Medical,Sales Representative,Medium,32317,2,0,No,No
+1154,23,Human Resources,2,Life Sciences,Manager,High,75952,4,4,No,Yes
+1155,53,Human Resources,8,Other,Research Director,Low,23462,4,3,No,No
+1156,47,Marketing,7,Technical Degree,Healthcare Representative,Medium,78607,1,3,No,No
+1157,30,Research & Development,3,Human Resources,Research Scientist,Low,30702,3,10,Yes,Yes
+1158,59,Research & Development,3,Other,Human Resources,High,20731,5,1,No,Yes
+1159,46,Marketing,3,Marketing,Research Director,Medium,49111,1,0,No,No
+1160,33,Research & Development,14,Marketing,Manager,Medium,38325,1,5,No,No
+1161,18,Finance,10,Technical Degree,Sales Representative,High,36555,2,2,No,No
+1162,59,Sales,17,Medical,Human Resources,Low,24726,2,0,No,Yes
+1163,23,Human Resources,37,Life Sciences,Sales Representative,Low,38186,1,1,No,Yes
+1164,20,Sales,6,Human Resources,Laboratory Technician,High,12915,6,1,Yes,No
+1165,47,Human Resources,1,Other,Manager,Medium,40513,1,4,Yes,No
+1166,61,Finance,1,Life Sciences,Sales Representative,Low,69468,3,0,Yes,No
+1167,50,Research & Development,3,Other,Research Scientist,Medium,15022,3,2,No,No
+1168,42,Marketing,26,Human Resources,Laboratory Technician,Medium,29632,2,3,Yes,Yes
+1169,42,Finance,7,Marketing,Manufacturing Director,Low,23451,2,3,Yes,Yes
+1170,45,Sales,3,Life Sciences,Manager,Medium,17059,0,18,Yes,Yes
+1171,44,Marketing,5,Technical Degree,Sales Executive,Low,13011,3,0,No,Yes
+1172,39,Research & Development,9,Medical,Human Resources,Medium,20122,6,15,No,No
+1173,38,Finance,10,Technical Degree,Healthcare Representative,High,32170,2,4,Yes,Yes
+1174,36,Marketing,1,Medical,Sales Representative,High,64509,0,7,No,No
+1175,29,Finance,37,Other,Human Resources,Medium,16960,4,2,No,Yes
+1176,34,Finance,7,Life Sciences,Human Resources,Low,42074,0,3,Yes,No
+1177,20,Research & Development,1,Life Sciences,Sales Executive,High,40530,1,10,No,No
+1178,36,Human Resources,22,Medical,Sales Executive,Medium,83782,4,11,No,No
+1179,27,Marketing,1,Marketing,Laboratory Technician,Low,48315,3,1,Yes,Yes
+1180,25,Research & Development,23,Human Resources,Manager,High,49726,0,1,Yes,No
+1181,38,Finance,50,Technical Degree,Research Scientist,High,51516,1,3,No,No
+1182,50,Research & Development,12,Other,Sales Executive,High,22876,6,11,No,Yes
+1183,46,Human Resources,14,Technical Degree,Sales Executive,High,27271,2,1,Yes,No
+1184,21,Marketing,4,Technical Degree,Healthcare Representative,Medium,63477,4,5,No,No
+1185,27,Human Resources,28,Other,Manufacturing Director,Medium,13024,0,6,No,No
+1186,46,Sales,7,Other,Sales Executive,Medium,25818,3,7,No,No
+1187,27,Marketing,13,Life Sciences,Manufacturing Director,Medium,18668,5,4,Yes,No
+1188,34,Human Resources,25,Technical Degree,Laboratory Technician,Medium,40827,2,2,No,Yes
+1189,42,Finance,36,Human Resources,Research Scientist,High,29413,5,17,No,No
+1190,27,Marketing,17,Human Resources,Human Resources,High,49661,1,4,No,Yes
+1191,38,Marketing,3,Medical,Sales Executive,Medium,34389,3,6,No,No
+1192,23,Research & Development,33,Other,Sales Representative,High,16763,1,2,No,No
+1193,30,Finance,9,Life Sciences,Manufacturing Director,High,17155,1,5,No,No
+1194,40,Sales,26,Human Resources,Healthcare Representative,Medium,36205,2,1,No,Yes
+1195,21,Human Resources,11,Marketing,Healthcare Representative,Medium,24696,5,1,No,No
+1196,41,Research & Development,3,Life Sciences,Sales Executive,Medium,27824,1,6,No,No
+1197,36,Human Resources,4,Life Sciences,Manager,Medium,58058,4,3,Yes,No
+1198,42,Sales,7,Human Resources,Human Resources,Low,53077,1,5,No,No
+1199,39,Sales,15,Marketing,Research Scientist,Medium,89220,3,1,Yes,Yes
+1200,50,Marketing,3,Medical,Sales Representative,Medium,31002,2,4,No,No
+1201,38,Sales,8,Human Resources,Manager,Medium,26355,1,2,No,No
+1202,32,Human Resources,4,Marketing,Healthcare Representative,High,44761,2,4,No,No
+1203,38,Finance,16,Life Sciences,Manufacturing Director,Low,27435,1,1,Yes,Yes
+1204,42,Finance,6,Marketing,Manufacturing Director,High,27888,1,6,No,No
+1205,37,Marketing,1,Life Sciences,Manager,Medium,32825,2,8,No,No
+1206,37,Human Resources,1,Human Resources,Manufacturing Director,Low,82981,3,1,Yes,No
+1207,29,Human Resources,1,Other,Healthcare Representative,High,51636,0,1,No,Yes
+1208,30,Sales,6,Human Resources,Manager,Medium,54415,1,5,No,No
+1209,22,Human Resources,1,Technical Degree,Healthcare Representative,Medium,81139,1,5,No,Yes
+1210,54,Research & Development,1,Technical Degree,Sales Representative,High,57026,5,6,No,No
+1211,24,Sales,28,Technical Degree,Human Resources,Medium,20625,1,5,No,No
+1212,30,Research & Development,20,Human Resources,Sales Representative,Medium,56595,1,2,No,No
+1213,29,Marketing,6,Medical,Sales Representative,Low,60302,1,2,Yes,Yes
+1214,45,Finance,42,Human Resources,Manufacturing Director,High,50308,4,1,Yes,No
+1215,34,Marketing,1,Other,Sales Executive,Medium,32934,2,0,No,Yes
+1216,49,Finance,9,Marketing,Research Director,Medium,47722,3,5,No,No
+1217,30,Marketing,9,Human Resources,Manufacturing Director,Medium,35949,1,0,Yes,Yes
+1218,39,Human Resources,6,Human Resources,Sales Executive,Medium,22269,1,13,Yes,Yes
+1219,28,Research & Development,5,Life Sciences,Healthcare Representative,High,25214,1,8,No,No
+1220,58,Finance,6,Life Sciences,Research Director,Medium,51630,2,9,No,No
+1221,25,Sales,5,Life Sciences,Manufacturing Director,Medium,23088,6,11,Yes,Yes
+1222,40,Research & Development,13,Human Resources,Research Director,Medium,24202,2,2,No,No
+1223,43,Sales,1,Medical,Research Director,High,52928,8,9,Yes,Yes
+1224,41,Research & Development,2,Marketing,Laboratory Technician,Medium,38827,5,0,No,Yes
+1225,35,Research & Development,1,Marketing,Human Resources,High,48464,3,0,No,No
+1226,35,Marketing,3,Other,Laboratory Technician,High,19643,5,7,No,No
+1227,37,Finance,7,Medical,Sales Executive,Medium,47796,0,0,No,Yes
+1228,35,Finance,1,Medical,Research Scientist,Medium,26107,1,22,No,No
+1229,46,Research & Development,20,Marketing,Manager,Medium,21841,4,5,Yes,Yes
+1230,59,Human Resources,3,Technical Degree,Research Scientist,High,28207,1,7,Yes,No
+1231,31,Human Resources,1,Life Sciences,Manager,Medium,71756,0,1,No,No
+1232,23,Sales,11,Life Sciences,Sales Executive,Medium,30265,1,5,No,No
+1233,36,Sales,1,Marketing,Sales Executive,High,109173,2,0,No,No
+1234,62,Marketing,9,Medical,Healthcare Representative,Medium,12950,0,9,No,No
+1235,28,Research & Development,11,Other,Human Resources,Medium,16761,5,0,No,Yes
+1236,53,Sales,2,Technical Degree,Research Director,Medium,70410,3,5,Yes,Yes
+1237,53,Sales,1,Marketing,Laboratory Technician,Low,79841,4,1,No,No
+1238,31,Research & Development,4,Life Sciences,Laboratory Technician,High,23582,1,0,No,No
+1239,42,Marketing,1,Human Resources,Sales Executive,Low,37588,3,3,No,No
+1240,53,Sales,1,Medical,Laboratory Technician,Medium,51849,1,0,No,No
+1241,33,Marketing,2,Human Resources,Sales Executive,High,32380,2,6,No,No
+1242,34,Finance,3,Other,Research Director,Medium,39141,5,1,No,No
+1243,31,Marketing,7,Marketing,Sales Executive,High,36514,2,2,No,No
+1244,26,Human Resources,11,Life Sciences,Healthcare Representative,High,17314,2,4,No,No
+1245,30,Human Resources,8,Technical Degree,Human Resources,Medium,30566,5,1,No,No
+1246,24,Marketing,1,Human Resources,Sales Representative,Low,36540,1,2,No,No
+1247,37,Human Resources,1,Technical Degree,Manufacturing Director,High,38237,3,8,No,No
+1248,29,Finance,21,Other,Human Resources,Medium,15286,2,0,No,Yes
+1249,39,Research & Development,8,Life Sciences,Human Resources,Low,52936,3,0,No,Yes
+1250,21,Human Resources,20,Human Resources,Research Scientist,High,38744,4,1,No,Yes
+1251,40,Human Resources,4,Other,Manager,Low,21424,3,2,No,No
+1252,45,Marketing,9,Technical Degree,Manufacturing Director,High,89279,5,3,Yes,No
+1253,18,Finance,7,Technical Degree,Research Director,Low,30537,1,2,No,Yes
+1254,40,Research & Development,3,Human Resources,Sales Representative,Low,31545,1,7,No,No
+1255,49,Marketing,6,Life Sciences,Sales Representative,Low,50053,1,0,Yes,No
+1256,24,Marketing,6,Technical Degree,Human Resources,High,93153,1,2,No,No
+1257,53,Finance,2,Marketing,Healthcare Representative,Medium,51047,2,2,No,No
+1258,41,Research & Development,3,Other,Manager,High,54888,3,5,No,No
+1259,29,Finance,15,Human Resources,Sales Executive,Medium,22008,4,16,No,No
+1260,36,Research & Development,24,Medical,Manager,Medium,37929,3,3,No,No
+1261,42,Finance,4,Medical,Research Scientist,Medium,27829,1,21,Yes,No
+1262,37,Marketing,3,Life Sciences,Manager,Medium,51640,6,1,No,Yes
+1263,42,Marketing,2,Marketing,Human Resources,Medium,54094,1,0,Yes,Yes
+1264,27,Sales,11,Technical Degree,Research Director,Medium,82175,1,0,Yes,Yes
+1265,38,Human Resources,3,Medical,Human Resources,Medium,12342,4,2,No,No
+1266,22,Finance,44,Life Sciences,Research Director,High,26494,4,1,No,No
+1267,35,Sales,3,Other,Laboratory Technician,Low,69572,3,0,No,Yes
+1268,27,Human Resources,5,Marketing,Research Director,High,18019,2,2,No,Yes
+1269,29,Finance,9,Marketing,Manager,Low,54329,2,2,No,No
+1270,49,Research & Development,16,Life Sciences,Manager,Medium,64023,3,0,No,No
+1271,47,Human Resources,6,Life Sciences,Manager,Medium,35804,2,1,No,Yes
+1272,43,Marketing,5,Technical Degree,Laboratory Technician,Medium,17841,2,10,Yes,Yes
+1273,26,Sales,50,Life Sciences,Sales Executive,Medium,34174,4,1,Yes,Yes
+1274,33,Human Resources,1,Technical Degree,Manufacturing Director,Medium,75307,2,6,No,No
+1275,49,Human Resources,22,Technical Degree,Manager,Medium,78394,2,4,Yes,No
+1276,38,Marketing,1,Human Resources,Research Scientist,High,40293,2,2,No,No
+1277,60,Finance,15,Marketing,Sales Representative,Medium,22278,1,1,No,No
+1278,40,Research & Development,9,Other,Sales Representative,High,86612,3,2,Yes,No
+1279,38,Marketing,4,Marketing,Manufacturing Director,Medium,54746,4,4,No,Yes
+1280,33,Research & Development,20,Marketing,Manufacturing Director,Medium,23022,4,2,Yes,No
+1281,38,Finance,1,Human Resources,Sales Executive,Medium,43099,2,1,No,No
+1282,35,Human Resources,2,Technical Degree,Research Scientist,Medium,42124,2,0,No,No
+1283,44,Research & Development,8,Technical Degree,Human Resources,Medium,26412,3,10,No,No
+1284,46,Sales,4,Life Sciences,Research Director,Medium,43219,3,2,Yes,No
+1285,29,Sales,9,Human Resources,Research Director,Low,63138,8,4,No,Yes
+1286,23,Marketing,1,Life Sciences,Human Resources,Medium,31315,2,3,Yes,No
+1287,18,Finance,1,Human Resources,Sales Representative,Low,66445,1,10,No,Yes
+1288,42,Marketing,1,Life Sciences,Human Resources,Medium,15098,6,3,No,No
+1289,25,Marketing,2,Medical,Research Scientist,Medium,110098,5,3,No,No
+1290,18,Marketing,6,Marketing,Manager,High,37371,4,12,No,No
+1291,40,Sales,13,Marketing,Laboratory Technician,High,62100,3,6,No,No
+1292,61,Sales,23,Other,Manager,Low,40510,2,0,Yes,Yes
+1293,36,Marketing,18,Technical Degree,Laboratory Technician,High,24058,3,0,Yes,No
+1294,45,Sales,2,Other,Research Director,High,35660,2,7,No,No
+1295,37,Finance,5,Medical,Manufacturing Director,Medium,13978,2,9,Yes,Yes
+1296,36,Marketing,2,Other,Manager,Medium,51235,6,3,No,No
+1297,46,Sales,3,Marketing,Human Resources,High,40009,4,4,No,No
+1298,34,Research & Development,7,Technical Degree,Research Scientist,Medium,32998,3,4,No,No
+1299,39,Marketing,1,Medical,Research Scientist,High,52910,5,2,No,Yes
+1300,40,Marketing,2,Marketing,Sales Representative,Low,37003,3,5,No,No
+1301,30,Finance,27,Life Sciences,Research Scientist,Low,49188,1,0,No,Yes
+1302,46,Human Resources,6,Human Resources,Research Scientist,Medium,58756,3,16,No,No
+1303,35,Human Resources,5,Medical,Manufacturing Director,Medium,27594,2,6,No,No
+1304,29,Finance,1,Technical Degree,Human Resources,High,23915,1,4,No,Yes
+1305,42,Finance,2,Other,Research Director,High,15347,2,1,No,No
+1306,28,Finance,20,Other,Research Scientist,Medium,38610,2,0,No,No
+1307,37,Human Resources,1,Medical,Research Director,Low,45526,1,2,No,No
+1308,36,Finance,5,Technical Degree,Manufacturing Director,High,18735,2,5,Yes,No
+1309,47,Sales,1,Medical,Research Scientist,Medium,73879,4,5,No,No
+1310,41,Marketing,6,Technical Degree,Sales Representative,Low,24072,3,2,No,No
+1311,36,Marketing,1,Other,Manager,Medium,12685,1,4,No,No
+1312,45,Research & Development,17,Marketing,Healthcare Representative,High,76681,3,8,Yes,Yes
+1313,50,Research & Development,17,Life Sciences,Sales Executive,High,13541,4,0,No,No
+1314,42,Marketing,15,Marketing,Research Scientist,Medium,58811,2,2,No,No
+1315,37,Sales,3,Life Sciences,Research Director,Medium,52081,1,7,No,No
+1316,23,Human Resources,18,Other,Sales Executive,High,42607,3,3,No,Yes
+1317,26,Human Resources,7,Marketing,Laboratory Technician,Medium,27962,3,5,Yes,No
+1318,33,Sales,4,Marketing,Research Scientist,Medium,46695,1,3,No,No
+1319,30,Human Resources,9,Medical,Healthcare Representative,Medium,61343,2,24,No,Yes
+1320,35,Finance,1,Human Resources,Manufacturing Director,High,22183,6,0,No,No
+1321,37,Marketing,1,Other,Sales Representative,Medium,59171,2,3,No,No
+1322,42,Marketing,13,Technical Degree,Healthcare Representative,Low,57840,0,0,Yes,Yes
+1323,36,Sales,2,Other,Research Director,Medium,42046,0,0,No,Yes
+1324,41,Human Resources,9,Technical Degree,Manufacturing Director,Medium,27750,6,2,Yes,Yes
+1325,37,Research & Development,4,Technical Degree,Manager,Medium,57972,1,0,No,Yes
+1326,18,Research & Development,19,Life Sciences,Manufacturing Director,Low,46824,2,16,No,No
+1327,27,Human Resources,30,Technical Degree,Research Scientist,Medium,21851,2,14,No,No
+1328,35,Research & Development,21,Technical Degree,Sales Executive,Medium,30221,4,2,No,No
+1329,24,Sales,3,Medical,Sales Executive,Low,54694,2,5,No,Yes
+1330,42,Sales,2,Marketing,Research Director,Low,38456,2,3,No,Yes
+1331,52,Human Resources,6,Other,Manufacturing Director,High,62504,3,8,No,No
+1332,49,Research & Development,1,Other,Healthcare Representative,High,30612,2,4,No,No
+1333,34,Sales,1,Technical Degree,Research Director,Medium,22027,6,0,No,Yes
+1334,51,Sales,8,Human Resources,Sales Representative,High,108749,0,7,No,No
+1335,38,Finance,7,Other,Research Director,Medium,15670,6,6,No,No
+1336,33,Finance,50,Technical Degree,Research Director,High,28284,3,3,Yes,No
+1337,30,Sales,2,Life Sciences,Manager,Medium,41767,4,11,No,No
+1338,33,Human Resources,2,Life Sciences,Research Scientist,Medium,59458,2,11,No,No
+1339,33,Marketing,1,Life Sciences,Manager,Low,50172,1,3,No,Yes
+1340,38,Marketing,24,Technical Degree,Sales Executive,Medium,115338,4,4,No,Yes
+1341,38,Sales,15,Medical,Sales Executive,High,34241,0,28,No,Yes
+1342,37,Sales,17,Human Resources,Laboratory Technician,Medium,23470,5,1,No,No
+1343,41,Sales,23,Technical Degree,Laboratory Technician,Medium,32537,2,1,No,No
+1344,48,Human Resources,7,Medical,Healthcare Representative,Low,30946,3,1,No,Yes
+1345,46,Finance,6,Medical,Sales Executive,High,35096,0,11,No,Yes
+1346,22,Sales,4,Other,Manager,Medium,22220,2,6,Yes,No
+1347,18,Sales,8,Technical Degree,Sales Representative,Medium,53746,2,0,No,Yes
+1348,46,Research & Development,6,Technical Degree,Laboratory Technician,High,43713,1,20,No,No
+1349,23,Human Resources,6,Medical,Manufacturing Director,Low,19303,5,6,No,No
+1350,34,Sales,27,Medical,Laboratory Technician,Medium,58924,3,9,Yes,No
+1351,25,Research & Development,41,Medical,Sales Executive,High,24203,2,0,Yes,Yes
+1352,18,Marketing,15,Other,Research Director,Medium,20102,1,3,No,Yes
+1353,42,Sales,14,Technical Degree,Research Scientist,Medium,37936,4,5,Yes,Yes
+1354,44,Sales,11,Medical,Sales Executive,Medium,15079,6,3,No,Yes
+1355,31,Research & Development,1,Life Sciences,Research Director,High,48764,4,5,No,No
+1356,18,Human Resources,1,Technical Degree,Sales Representative,Low,8783,3,8,No,Yes
+1357,31,Sales,11,Other,Sales Representative,High,21705,2,2,Yes,Yes
+1358,40,Marketing,13,Life Sciences,Manufacturing Director,High,79823,2,9,No,No
+1359,22,Sales,1,Marketing,Human Resources,Low,25762,1,0,No,Yes
+1360,38,Marketing,26,Technical Degree,Manager,High,28119,4,1,No,No
+1361,36,Finance,1,Marketing,Research Scientist,Medium,68653,0,0,No,Yes
+1362,42,Finance,3,Medical,Sales Executive,Medium,24430,2,2,No,No
+1363,38,Marketing,11,Other,Sales Executive,High,53194,3,2,Yes,Yes
+1364,27,Human Resources,1,Medical,Human Resources,High,65322,3,8,No,No
+1365,48,Sales,1,Other,Manufacturing Director,Low,46132,4,5,No,No
+1366,35,Sales,4,Human Resources,Healthcare Representative,Medium,17633,1,2,No,Yes
+1367,36,Finance,14,Medical,Laboratory Technician,Medium,26849,0,5,No,No
+1368,27,Marketing,5,Marketing,Manufacturing Director,Medium,141041,2,0,No,No
+1369,32,Sales,10,Other,Research Director,Medium,28416,1,0,Yes,No
+1370,28,Sales,8,Medical,Manufacturing Director,Low,161646,1,4,No,Yes
+1371,35,Human Resources,1,Technical Degree,Human Resources,Medium,85347,3,5,No,No
+1372,54,Research & Development,44,Other,Human Resources,Medium,47076,1,7,No,No
+1373,23,Finance,1,Other,Manager,Low,42134,0,2,No,Yes
+1374,20,Finance,34,Medical,Research Scientist,High,28784,3,6,No,No
+1375,51,Research & Development,7,Human Resources,Sales Representative,High,34736,1,5,No,No
+1376,34,Sales,33,Medical,Human Resources,Medium,25735,4,16,No,No
+1377,30,Human Resources,1,Marketing,Manager,Medium,35178,4,1,Yes,Yes
+1378,47,Human Resources,6,Marketing,Laboratory Technician,Medium,18377,2,4,No,No
+1379,30,Finance,1,Other,Sales Representative,Medium,17892,1,4,No,No
+1380,55,Human Resources,1,Other,Healthcare Representative,Medium,69599,3,33,No,No
+1381,43,Research & Development,9,Medical,Sales Executive,High,16217,6,1,Yes,No
+1382,32,Sales,2,Marketing,Laboratory Technician,Low,56560,1,3,No,Yes
+1383,58,Research & Development,8,Marketing,Healthcare Representative,Low,14084,2,2,No,Yes
+1384,30,Marketing,1,Human Resources,Sales Representative,Low,49752,2,3,No,No
+1385,44,Finance,4,Technical Degree,Laboratory Technician,Low,32735,2,1,No,No
+1386,39,Human Resources,15,Human Resources,Manager,Low,70309,5,0,No,Yes
+1387,50,Marketing,5,Life Sciences,Healthcare Representative,High,30760,4,4,No,No
+1388,52,Human Resources,9,Human Resources,Sales Executive,Medium,13296,3,2,No,No
+1389,37,Sales,10,Medical,Manager,Low,33056,4,1,No,No
+1390,29,Sales,18,Technical Degree,Research Director,Medium,39333,1,1,Yes,Yes
+1391,41,Sales,3,Medical,Sales Executive,High,33996,2,0,No,No
+1392,30,Human Resources,11,Life Sciences,Research Scientist,Medium,48414,3,15,Yes,No
+1393,57,Marketing,32,Technical Degree,Manufacturing Director,Medium,27386,5,4,No,No
+1394,38,Sales,13,Other,Research Scientist,High,19308,4,8,No,No
+1395,33,Marketing,6,Marketing,Human Resources,Medium,22030,3,2,Yes,No
+1396,38,Human Resources,9,Human Resources,Research Director,Medium,28060,0,11,No,No
+1397,23,Marketing,13,Medical,Research Director,Medium,27940,3,3,No,No
+1398,27,Human Resources,9,Life Sciences,Manufacturing Director,Medium,120941,1,4,No,Yes
+1399,49,Human Resources,1,Marketing,Healthcare Representative,Medium,68019,1,3,Yes,No
+1400,30,Finance,2,Human Resources,Manufacturing Director,Medium,51192,2,6,No,No
+1401,26,Human Resources,16,Marketing,Human Resources,Medium,45388,1,4,Yes,No
+1402,42,Human Resources,3,Human Resources,Research Scientist,Medium,42187,2,1,Yes,Yes
+1403,48,Research & Development,13,Other,Research Director,Low,42298,4,0,Yes,Yes
+1404,44,Sales,4,Technical Degree,Research Scientist,Low,39404,3,4,No,Yes
+1405,46,Finance,7,Marketing,Sales Executive,Medium,37051,1,3,Yes,Yes
+1406,29,Finance,1,Marketing,Laboratory Technician,High,12759,4,0,Yes,Yes
+1407,22,Finance,1,Marketing,Human Resources,Medium,30195,2,2,No,Yes
+1408,52,Research & Development,31,Technical Degree,Laboratory Technician,Medium,32204,4,3,No,No
+1409,33,Human Resources,22,Life Sciences,Human Resources,Medium,24972,3,8,Yes,No
+1410,34,Sales,10,Human Resources,Sales Representative,Low,27500,2,0,No,Yes
+1411,50,Marketing,6,Other,Sales Executive,Low,42208,2,2,No,No
+1412,42,Human Resources,11,Marketing,Healthcare Representative,Medium,53305,4,8,Yes,No
+1413,41,Research & Development,9,Technical Degree,Human Resources,Low,42176,3,5,No,Yes
+1414,58,Human Resources,8,Life Sciences,Laboratory Technician,Low,52639,2,1,Yes,Yes
+1415,30,Human Resources,1,Human Resources,Human Resources,High,53106,0,9,Yes,No
+1416,46,Research & Development,10,Technical Degree,Healthcare Representative,Low,31261,1,3,No,No
+1417,37,Finance,14,Other,Human Resources,Medium,47223,1,3,Yes,No
+1418,39,Finance,50,Other,Manager,Medium,15166,1,18,Yes,No
+1419,52,Sales,1,Human Resources,Human Resources,Medium,29966,3,14,No,No
+1420,42,Sales,13,Marketing,Sales Representative,Medium,28256,2,2,No,Yes
+1421,42,Finance,8,Other,Sales Representative,Medium,78093,2,0,No,No
+1422,47,Marketing,5,Life Sciences,Research Director,Medium,42982,1,1,No,Yes
+1423,33,Human Resources,1,Technical Degree,Sales Representative,High,18634,3,0,No,Yes
+1424,28,Marketing,5,Life Sciences,Human Resources,High,48888,1,0,No,No
+1425,26,Human Resources,4,Marketing,Human Resources,Low,57233,1,2,No,No
+1426,18,Finance,3,Life Sciences,Manager,Low,34723,1,14,No,No
+1427,57,Sales,13,Life Sciences,Sales Representative,High,51283,1,10,No,No
+1428,25,Sales,12,Medical,Research Scientist,Medium,10426,3,3,Yes,Yes
+1429,34,Marketing,8,Life Sciences,Human Resources,Medium,9417,3,4,No,Yes
+1430,34,Sales,27,Human Resources,Sales Executive,Medium,20144,0,0,No,Yes
+1431,40,Finance,4,Technical Degree,Sales Executive,Low,39125,1,1,No,No
+1432,45,Marketing,2,Medical,Laboratory Technician,Medium,78126,3,0,No,Yes
+1433,45,Human Resources,10,Technical Degree,Manager,Medium,20677,0,7,No,No
+1434,31,Sales,2,Technical Degree,Healthcare Representative,Medium,23698,2,0,No,No
+1435,35,Research & Development,3,Marketing,Research Scientist,Medium,37960,3,10,No,No
+1436,39,Sales,2,Marketing,Human Resources,High,28391,4,5,No,No
+1437,34,Human Resources,1,Medical,Manufacturing Director,Medium,27595,2,1,No,Yes
+1438,53,Marketing,17,Other,Manufacturing Director,Low,29415,2,0,No,Yes
+1439,41,Human Resources,2,Marketing,Healthcare Representative,Medium,70080,2,4,No,Yes
+1440,44,Research & Development,6,Marketing,Research Director,High,63453,2,11,No,No
+1441,43,Finance,1,Marketing,Manufacturing Director,High,36744,2,6,Yes,No
+1442,48,Sales,12,Technical Degree,Healthcare Representative,Medium,83053,2,2,No,No
+1443,38,Marketing,4,Medical,Manufacturing Director,Low,46841,1,4,No,No
+1444,24,Finance,13,Technical Degree,Manager,High,64663,8,1,No,No
+1445,40,Human Resources,5,Human Resources,Laboratory Technician,Medium,23617,2,35,No,No
+1446,30,Marketing,2,Technical Degree,Research Director,Low,26190,4,6,No,No
+1447,31,Finance,7,Human Resources,Manager,Medium,26050,2,4,Yes,Yes
+1448,42,Marketing,1,Life Sciences,Healthcare Representative,Medium,34774,2,2,No,No
+1449,49,Research & Development,5,Life Sciences,Research Scientist,Medium,37419,2,4,No,No
+1450,37,Research & Development,3,Human Resources,Sales Representative,Medium,42705,1,2,No,No
+1451,40,Sales,24,Human Resources,Research Scientist,Medium,97397,3,0,No,Yes
+1452,54,Sales,1,Technical Degree,Sales Executive,High,52085,1,2,No,No
+1453,39,Research & Development,11,Human Resources,Sales Representative,High,28074,3,13,No,No
+1454,63,Marketing,2,Medical,Healthcare Representative,High,36256,2,4,No,No
+1455,42,Research & Development,3,Life Sciences,Sales Executive,High,77070,1,0,No,No
+1456,19,Sales,5,Life Sciences,Manufacturing Director,Low,53687,2,10,Yes,No
+1457,44,Research & Development,23,Other,Manufacturing Director,Medium,76564,3,1,No,No
+1458,40,Research & Development,2,Human Resources,Sales Representative,Medium,28528,2,1,No,No
+1459,49,Marketing,1,Marketing,Human Resources,High,25442,1,1,No,No
+1460,43,Finance,3,Marketing,Research Scientist,Medium,25628,2,4,Yes,No
+1461,35,Sales,1,Human Resources,Sales Executive,High,29703,3,3,No,No
+1462,24,Marketing,1,Medical,Research Scientist,Medium,21340,2,3,No,Yes
+1463,34,Research & Development,8,Marketing,Sales Representative,High,42091,4,6,No,No
+1464,28,Research & Development,1,Other,Manager,Low,42454,1,1,No,Yes
+1465,31,Finance,1,Human Resources,Manufacturing Director,Low,70925,2,7,No,Yes
+1466,42,Sales,12,Medical,Sales Executive,High,15061,3,0,No,No
+1467,53,Sales,4,Medical,Sales Executive,Low,22650,3,7,No,No
+1468,40,Human Resources,1,Technical Degree,Healthcare Representative,High,54327,2,5,No,No
+1469,25,Sales,2,Medical,Sales Executive,Low,39804,0,5,No,No
+1470,41,Finance,10,Marketing,Sales Representative,Medium,37138,1,3,No,No
