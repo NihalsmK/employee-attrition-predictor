@@ -1,6 +1,6 @@
 # Employee Attrition Predictor
 
-🎯 **AI-Powered HR Analytics System for Employee Retention**
+🎯 **Machine Learning-Powered HR Analytics System for Employee Retention**
 
 A comprehensive machine learning system that predicts employee attrition and provides actionable insights for HR departments. Built with Python, scikit-learn, and Streamlit.
 

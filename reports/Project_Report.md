@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-This project develops an AI-powered HR analytics system that predicts employee attrition using machine learning. The system analyzes 1,470 employee records to identify high-risk employees and provides actionable business insights for retention strategies.
+This project develops a machine learning-powered HR analytics system that predicts employee attrition using advanced algorithms. The system analyzes 1,470 employee records to identify high-risk employees and provides actionable business insights for retention strategies.
 
 ### Key Achievements
 - **Predictive Accuracy:** 67% with Decision Tree model
