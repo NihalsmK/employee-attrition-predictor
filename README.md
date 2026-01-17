@@ -144,7 +144,7 @@ python -m pytest tests/test_data_validator_properties.py -v
 
 - **[Deployment Guide](deploy_instructions.md)** - Complete deployment instructions
 - **[Executive Summary](reports/executive_summary.md)** - Business findings
-- **[Technical Specs](.kiro/specs/)** - Detailed system specifications
+- **[Technical Specs](docs/specs/)** - Detailed system specifications
 
 ## 🤝 **Contributing**
 
